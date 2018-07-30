@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Linux version 5.4.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1">
+  <meta name="description" content="SPCOM 2018 Website">
+  <meta name="author" content="Parimal Parag">
+  <link rel="icon" href="../IISc/ico/spcomlogo.ico">
+  <title>SPCOM 2018</title><!-- Bootstrap Core CSS -->
+  <link href="../bootstrap-3.3.5/dist/css/bootstrap.min.css" rel=
+  "stylesheet"><!-- Custom CSS -->
+  <link href=
+  "../bootstrap-3.3.5/modern-business/css/modern-business.css" rel=
+  "stylesheet"><!-- Custom CSS -->
+  <link href=
+  "../bootstrap-3.3.5/simple-sidebar/css/simple-sidebar.css" rel=
+  "stylesheet"><!-- Custom Fonts -->
+  <link href=
+  "../bootstrap-3.3.5/modern-business/font-awesome/css/font-awesome.min.css"
+  rel="stylesheet" type="text/css">
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-inverse navbar-fixed-top" role=
+  "navigation">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+      <!--  <button type="button" class="navbar-toggle" data-toggle= -->
+<!--        "collapse" data-target= -->
+    <!--    "#bs-example-navbar-collapse-1"><span class= -->
+<!--        "sr-only">Toggle navigation</span></button> <a class= -->
+    <!--    "navbar-brand" href="index.html">SPCOM</a> -->
+
+
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar">&nbsp;</span>
+                    <span class="icon-bar">&nbsp;</span>
+                    <span class="icon-bar">&nbsp;</span>
+                </button>
+
+
+
+
+
+
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id=
+      "bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a href="committees.html">COMMITTEES</a>
+          </li><!--li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="about.html">ABOUT SPCOM</a></li>
+                            <li><a href="committees.html">COMMITTEES</a></li>
+                        </ul>
+                    </li-->
+           <li>
+		<a href="register.html">REGISTRATION</a>
+		</li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">AUTHORS</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="submission.html">PAPER SUBMISSION</a>
+              </li>
+              <li>
+                <a href="award.html">STUDENT PAPER AWARD</a>
+              </li>
+              <li>
+                <a href="instructions.html">INSTRUCTIONS FOR
+                PRESENTERS</a>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">PROGRAM</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="dates.html">IMPORTANT DATES</a>
+              </li>
+              <li>
+                <a href="program.html">TECHNICAL PROGRAM</a>
+              </li>
+              <li>
+                <a href="plenary.html">PLENARY SPEAKERS</a>
+              </li>
+              <li>
+                <a href="invited.html">INVITED SPEAKERS</a>
+              </li>
+              <li>
+                <a href="tutorials.html">TUTORIALS</a>
+              </li>
+              <li>
+                <a href="venue.html">CONFERENCE VENUE</a>
+              </li>
+              <li>
+                <a href="social.html">SOCIAL PROGRAM</a>
+              </li>
+              <li>
+                <a href="panelists.html">PANELISTS</a>
+              </li>
+<li>
+                <a href="graduationday.html">GRADUATION DAY</a>
+              </li>
+
+
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">TRAVEL & ACCOMMODATION</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="acco.html">ACCOMMODATION</a>
+              </li>
+              <li>
+                <a href="visa.html">VISA INFORMATION</a>
+              </li>
+              <li>
+                <a href="grant.html">STUDENT TRAVEL GRANT</a>
+              </li>
+              <li>
+                <a href="map.html">HOW TO REACH IISC</a>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">USEFUL LINKS</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="map.html">HOW TO REACH IISC</a>
+              </li>
+              <li>
+                <a href="tours.html">TOURS & EXCURSIONS</a>
+              </li>
+              <li>
+                <a href="others.html">OTHER LINKS</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="contact.html">CONTACT US</a>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav><!-- SPCOM 2018 Banner-->
+  <!-- Image Header -->
+  <header class="header-image">
+    <img class="img-responsive" src="../IISc/img/spcom2018Web.jpg"
+    alt="SPCOM2018">
+  </header><!-- /.row -->
+  <!-- Page Heading/Breadcrumbs -->
+  <div class="row">
+    <div class="col-lg-12">
+      <h1 class="page-header">Welcome to SPCOM 2018!</h1>
+      <ol class="breadcrumb">
+        <li class="active">
+          <a href="index.html">SPCOM</a>
+        </li><!--li class="active">ABOUT</li-->
+      </ol>
+    </div>
+  </div><!-- /.row -->
+  <div class="col-md-3">
+    <!-- side column -->
+    <!--p class="lead">Shop Name</p-->
+    <div class="panel panel-default">
+      <div class="panel-heading active">
+        <h4 class="panel-title"><a href="#">SPCOM</a></h4>
+      </div>
+      <div class="list-group">
+        <!--a href="#" class="list-group-item active">HOME</a-->
+        <a href="register.html" class=
+        "list-group-item">REGISTRATION</a> <a href="feedback.html"
+        class="list-group-item">FEEDBACK</a>
+      </div>
+    </div>
+    
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+        <h4 class="panel-title">TECHNICAL CO-SPONSORS</h4>
+      </div>
+      <div class="panel-body"><img class="img-responsive" width=
+      "230" alt="IEEE" src="img/IEEE_logo.jpg"> <img class=
+      "img-responsive" width="230" alt=
+      "IEEE Signal Processing Society" src=
+      "img/sp_society_logo.jpg"></div>
+    </div>
+  </div><!-- end side column -->
+  <div class="col-md-9">
+    <!-- main content column -->
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <!--h4><i class="fa fa-fw fa-check"></i>Message from the General Co-Chairs</h4-->
+        <h3 class="panel-title">ANNOUNCEMENTS</h3>
+      </div>
+      <div class="panel-body">
+	<p><b><a href="http://ece.iisc.ernet.in/~spcom/2018/graduationday.html">Graduation Day Event </a> on July 19.</b></p>
+	<p><b>The <a href="program.html"> program schedule</a> for SPCOM 2018 is online. </b></p>
+        <p><b><a href="acco.html">Accommodation, guest house and
+        hotel information</a> for SPCOM 2018 is online.</b></p>
+        <p><b><a href="register.html">Registration is open</a> for
+        SPCOM 2018.</b></p>
+      </div>
+    </div>
+    <!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <!--h4><i class="fa fa-fw fa-gift"></i>Message from the TPC Co-Chairs</h4-->
+        <h3 class="panel-title"><strong>PLENARY
+        SPEAKERS</strong></h3>
+      </div>
+      <div class="panel-body">
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "http://www.eurecom.fr/cm/gesbert">David
+              Gesbert</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/DavidGesbert.jpg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/plenary.html#David">Learning
+              from the sky: Autonomous flying access networks for
+              beyond 5G</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "http://fleece.ucsd.edu/~vardy/">Alexander Vardy</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/Alex1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/plenary.html#Alex">Past,
+              present, and future of polar coding</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "https://lions.epfl.ch">Volkan Cevher</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/VolkanCevher1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/plenary.html#Volkan">Trade-offs
+              in resource constrained machine learning systems</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <span style="font-size: 14pt">
+        <!--h4><i class="fa fa-fw fa-gift"></i>Message from the TPC Co-Chairs</h4--></span>
+        <h3 class="panel-title"><span style=
+        "font-size: 14pt"><strong>TUTORIAL
+        SPEAKERS</strong></span></h3>
+      </div>
+      <div class="panel-body">
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "http://www.nbrc.ac.in/view_profile.php?id=MzAy">Arpan
+              Banerjee</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/Arpan1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut1">Teasing
+              out the multi-scale representational space of
+              cross-modal speech perception: Methods and
+              mechanisms</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "http://www.ece.iastate.edu/~namrata/">Namrata
+              Vaswani</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/Namrata.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut2">PCA
+              and Robust PCA for Modern Datasets</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "https://sites.google.com/view/karthik-s">Karthik
+              Sundaresan</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/Karthik1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut3">5G:
+              An Evolution Towards a Revolution</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "https://www.microsoft.com/en-us/research/people/havansei/">
+              Harm van Seijen</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"   src=
+              "img/Harm1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut4">Introduction
+              to Reinforcement Learning</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "http://web.ics.purdue.edu/~vaneet/">Vaneet
+              Aggarwal</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/Vaneet1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut5">Video
+              Streaming: On Rate-Adaptation, Multipath, Virtual
+              Reality, and Content Distribution Network</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title"><a href=
+              "http://web.eng.ucsd.edu/~dineshb/">Dinesh
+              Bharadia</a></h3>
+            </div>
+            <div class="panel-body">
+              <p align="center"><img class="img-responsive"  src=
+              "img/Dinesh1.jpeg"></p><a href=
+              "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut6">Need
+              for Low Power Communications and Localization</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <span style="font-size: 14pt">
+        <!--h4><i class="fa fa-fw fa-check"></i>Message from the General Co-Chairs</h4--></span>
+        <h3 class="panel-title"><span style="font-size: 14pt">ABOUT
+        SPCOM</span></h3>
+      </div>
+      <div class="panel-body">
+        <p>SPCOM 2018 provides a forum for researchers from
+        academia, research laboratories, and industries to come
+        together to share and learn about current developments in
+        these emerging fields. SPCOM 2018 is the twelfth in a
+        series of biennial events that have been organized since
+        1990 at the Indian Institute of Science (IISc).<br></p>
+        <p>SPCOM 2018 will be held at the <a href=
+        "http://www.csic.iisc.ernet.in/nssc.htm">National Science
+        Seminar Complex</a> (J. N. Tata Auditorium) on the <a href=
+        "http://iisc.ac.in/">Indian Institute of Science</a>
+        campus.</p><br>
+        Previous editions:
+        <p><a href="http://ece.iisc.ernet.in/~spcom/2016/">SPCOM
+        2016</a><br>
+        <a href="http://ece.iisc.ernet.in/spcom2014">SPCOM
+        2014</a><br>
+        <a href="http://ece.iisc.ernet.in/~spcom2012">SPCOM
+        2012</a></p>
+      </div>
+    </div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <span style="font-size: 14pt">
+        <!--h4><i class="fa fa-fw fa-gift"></i>Message from the TPC Co-Chairs</h4--></span>
+        <h3 class="panel-title"><span style=
+        "font-size: 14pt">TOPICS OF INTEREST</span></h3>
+      </div>
+      <div class="panel-body">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th>Communication and Networks Topics</th>
+              <th>Signal Processing Topics</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Ad-hoc, Mesh and Sensor Networks</td>
+              <td>Array Signal Processing</td>
+            </tr>
+            <tr>
+              <td>Coding for Data Communications and Storage</td>
+              <td>Audio / Speech / Spoken Language Processing</td>
+            </tr>
+            <tr>
+              <td>Cognitive Radio</td>
+              <td>Compressive Sensing and High-Dimensional
+              Statistics</td>
+            </tr>
+            <tr>
+              <td>Cooperative and D2D Communications</td>
+              <td>Computational Photography</td>
+            </tr>
+            <tr>
+              <td>Cyber Physical Systems</td>
+              <td>Digital and Multirate Signal Processing</td>
+            </tr>
+            <tr>
+              <td>Energy and Smart Grid</td>
+              <td>Image / Video / Multimedia Signal Processing</td>
+            </tr>
+            <tr>
+              <td>Game Theory in Networks</td>
+              <td>Inverse Problems in Imaging</td>
+            </tr>
+            <tr>
+              <td>Green Communications</td>
+              <td>Neural/Biological Signal Processing</td>
+            </tr>
+            <tr>
+              <td>Information Theory</td>
+              <td>Radar/Sonar Signal Processing</td>
+            </tr>
+            <tr>
+              <td>Machine Learning in Communications and Signal
+              Processing</td>
+              <td>Signal Processing Algorithms and
+              Architectures</td>
+            </tr>
+            <tr>
+              <td>Multihop and Heterogeneous Networks</td>
+              <td>Signal Processing for Big Data</td>
+            </tr>
+            <tr>
+              <td>Network Coding</td>
+              <td>Signal Processing for Communications</td>
+            </tr>
+            <tr>
+              <td>Optical Communications and Networks</td>
+              <td>Signal Processing for Networks and Graphs</td>
+            </tr>
+            <tr>
+              <td>Physical Layer Security</td>
+              <td>Signal Processing for the Internet of Things</td>
+            </tr>
+            <tr>
+              <td>Source Coding and Data Compression</td>
+              <td>Statistical Signal Processing</td>
+            </tr>
+            <tr>
+              <td>THz, mmWave and RF Systems for
+              Communications</td>
+              <td>Systems, Standards and Implementations</td>
+            </tr>
+            <tr>
+              <td>Vehicular Networks</td>
+              <td>Underwater Communications and Signal
+              Processing</td>
+            </tr>
+            <tr>
+              <td>Wireless Communications</td>
+              <td>VLSI for Communications and Signal
+              Processing</td>
+            </tr><!--tr><td></td><td></td></tr-->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div><!-- end main content column -->
+  <hr>
+  <footer>
+    <div class="row">
+      <div class="col-lg-12">
+        <p><span style="font-size: 14pt">Copyright © SPCOM
+        2018</span></p>
+      </div>
+    </div>
+  </footer><!-- jQuery -->
+   <span style="font-size: 14pt">
+  <script src=
+  "../bootstrap-3.3.5/modern-business/js/jquery.js"></script> 
+  <!-- Bootstrap Core JavaScript -->
+   
+  <script src=
+  "../bootstrap-3.3.5/dist/js/bootstrap.min.js"></script> 
+  <!-- Script to Activate the Carousel -->
+   
+  <script>
+
+
+
+
+
+
+
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+  </script></span>
+</body>
+</html>

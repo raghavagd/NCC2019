@@ -1,0 +1,2521 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Linux version 5.4.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1">
+  <meta name="description" content="SPCOM 2018 Website">
+  <meta name="author" content="Parimal Parag">
+  <link rel="icon" href="../IISc/ico/spcomlogo.ico">
+  <title>SPCOM 2018</title><!-- Bootstrap Core CSS -->
+  <link href="../bootstrap-3.3.5/dist/css/bootstrap.min.css" rel=
+  "stylesheet"><!-- Custom CSS -->
+  <link href=
+  "../bootstrap-3.3.5/modern-business/css/modern-business.css" rel=
+  "stylesheet"><!-- Custom CSS -->
+  <link href=
+  "../bootstrap-3.3.5/simple-sidebar/css/simple-sidebar.css" rel=
+  "stylesheet"><!-- Custom Fonts -->
+  <link href=
+  "../bootstrap-3.3.5/modern-business/font-awesome/css/font-awesome.min.css"
+  rel="stylesheet" type="text/css">
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+                            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+                            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+                            <![endif]-->
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-inverse navbar-fixed-top" role=
+  "navigation">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar">&nbsp;</span>
+                    <span class="icon-bar">&nbsp;</span>
+                    <span class="icon-bar">&nbsp;</span>
+                </button>
+
+	 <a class="navbar-brand" href="index.html">SPCOM</a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id=
+      "bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a href="committees.html">COMMITTEES</a>
+          </li><!--li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT<b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                    <li><a href="about.html">ABOUT SPCOM</a></li>
+                                    <li><a href="committees.html">COMMITTEES</a></li>
+                                    </ul>
+                                    </li-->
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">AUTHORS</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="submission.html">PAPER SUBMISSION</a>
+              </li>
+              <li>
+                <a href="register.html">REGISTRATION</a>
+              </li>
+              <li>
+                <a href="award.html">STUDENT PAPER AWARD</a>
+              </li>
+              <li>
+                <a href="instructions.html">INSTRUCTIONS FOR
+                PRESENTERS</a>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">PROGRAM</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="dates.html">IMPORTANT DATES</a>
+              </li>
+              <li>
+                <a href="program.html">TECHNICAL PROGRAM</a>
+              </li>
+              <li>
+                <a href="plenary.html">PLENARY SPEAKERS</a>
+              </li>
+              <li>
+                <a href="invited.html">INVITED SPEAKERS</a>
+              </li>
+              <li>
+                <a href="tutorials.html">TUTORIALS</a>
+              </li>
+              <li>
+                <a href="venue.html">CONFERENCE VENUE</a>
+              </li>
+              <li>
+                <a href="social.html">SOCIAL PROGRAM</a>
+              </li>
+              <li>
+                <a href="panelists.html">PANELISTS</a>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">TRAVEL &amp; ACCOMMODATION</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="acco.html">ACCOMMODATION</a>
+              </li>
+              <li>
+                <a href="visa.html">VISA INFORMATION</a>
+              </li>
+              <li>
+                <a href="grant.html">STUDENT TRAVEL GRANT</a>
+              </li>
+              <li>
+                <a href="map.html">HOW TO REACH IISC</a>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle=
+            "dropdown">USEFUL LINKS</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="map.html">HOW TO REACH IISC</a>
+              </li>
+              <li>
+                <a href="tours.html">TOURS &amp; EXCURSIONS</a>
+              </li>
+              <li>
+                <a href="others.html">OTHER LINKS</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="contact.html">CONTACT US</a>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav><!-- SPCOM 2018 Banner-->
+  <!-- Image Header -->
+  <header class="header-image">
+    <img class="img-responsive" src="../IISc/img/spcom2018Web.jpg"
+    alt="SPCOM2018">
+  </header><!-- /.row -->
+  <!-- Header Carousel -->
+  <!--header id="myCarousel" class="carousel slide"-->
+  <!-- Indicators -->
+  <!--ol class="carousel-indicators">
+                              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                              <li data-target="#myCarousel" data-slide-to="1"></li>
+                              <li data-target="#myCarousel" data-slide-to="2"></li>
+                              </ol-->
+  <!-- Wrapper for slides -->
+  <!--div class="carousel-inner">
+                              <div class="item active">
+                              <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+                              <div class="carousel-caption">
+                              <h2>Caption 1</h2>
+                              </div>
+                              </div>
+                              <div class="item">
+                              <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+                              <div class="carousel-caption">
+                              <h2>Caption 2</h2>
+                              </div>
+                              </div>
+                              <div class="item">
+                              <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                              <div class="carousel-caption">
+                              <h2>Caption 3</h2>
+                              </div>
+                              </div>
+                              </div-->
+  <!-- Controls -->
+  <!--a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                              <span class="icon-prev"></span>
+                              </a>
+                              <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                              <span class="icon-next"></span>
+                              </a>
+                              </header-->
+  <!-- Page Content -->
+  <div class="container">
+    <!-- Marketing Icons Section -->
+    <!-- Page Heading/Breadcrumbs -->
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="page-header">Welcome to SPCOM 2018!</h1>
+        <ol class="breadcrumb">
+          <li class="active">
+            <a href="index.html">SPCOM</a>
+          </li>
+          <li class="active">TECHNICAL PROGRAM</li>
+        </ol>
+      </div>
+    </div><!-- /.row -->
+    <div class="col-md-3">
+      <!--p class="lead">Shop Name</p-->
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><a href=
+          "index.html">SPCOM</a></h4>
+        </div>
+        <div class="list-group">
+          <!--a href="#" class="list-group-item active">HOME</a-->
+          <a href="register.html" class=
+          "list-group-item">REGISTRATION</a> <a href=
+          "feedback.html" class="list-group-item">FEEDBACK</a>
+        </div>
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h4 class="panel-title">IMPORTANT DATES</h4>
+        </div>
+        <div class="panel-body">
+          <!--    <strong>(to be announced)</strong> -->
+          <!--  <strong>Abstract Submission:</strong><br> Monday, January 01, 2018<br>-->
+          <strong>Full Paper submission:</strong><br>
+          January 30, 2018 (Firm deadline)<br>
+          <strong>Decision notification:</strong><br>
+          Wednesday, April 11, 2018<br>
+          <strong>Camera-ready submission:</strong><br>
+          Wednesday, May 09, 2018
+        </div>
+      </div>
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h4 class="panel-title">TECHNICAL CO-SPONSORS</h4>
+        </div>
+        <div class="panel-body"><img class="img-responsive" width=
+        "230" alt="IEEE" src="img/IEEE_logo.jpg"> <img class=
+        "img-responsive" width="230" alt=
+        "IEEE Signal Processing Society" src=
+        "img/sp_society_logo.jpg"></div>
+      </div>
+    </div>
+    <div class="col-md-9">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <!--h4><i class="fa fa-fw fa-check"></i>Message from the General Co-Chairs</h4-->
+          <h3 class="panel-title"><a href=
+          "img/SPCOM-2018-Program.pdf">TECHNICAL
+          PROGRAM</a></h3>
+        </div>
+        <div class="panel-body">
+          <p style="text-align: left;">Contributed papers: &nbsp;
+          <a href="img/SPCOM-2018-Program.pdf" class=
+          "btn btn-info">Download Technical Program PDF</a></p>
+          <p style="text-align: left;">Invited talks: &nbsp;
+          <a href="./invited.html" class="btn btn-info">View
+          invited talks</a></p>
+          <p style="text-align: left;">Plenary talks: &nbsp;
+          <a href="./plenary.html" class="btn btn-info">View
+          plenary talks</a></p>
+        </div>
+      </div>
+ <div class="col-md-12">
+      <div class="panel panel-default"> 
+        <div class="panel-heading"> 
+          <h3 class="panel-title">PROGRAM AT A GLANCE</h3>
+        </div>
+       <div class="panel-body">
+<table class="table table-striped table-responsive" id=
+          "top1">
+
+
+
+            <thead>
+              <tr>
+                <th class="col-md-2">Time</th>
+                <th class="col-md-3">ECE GJH</th>
+                <th class="col-md-4">ECE 1.08</th>
+                <th class="col-md-3">ECE MP</th>
+              </tr>
+	    </thead>
+	     <tbody>
+              <tr class="sessionday">
+                <td class="sessionday" colspan="5">
+                  <h4 class="sessionday">Monday, July 16: TUTORIALS</h4>
+                </td>
+              </tr>
+
+	      <tr class="danger">
+                <td>08:00 - 09:30 </td>
+                <td colspan="4" align="center">Registration for SPCOM 2018 at Dept of ECE</td>
+              </tr>
+
+
+              <tr class="even">
+                <td>09:30 - 13:00 </td>
+                <td>
+                  AM1: <a class="inh" href=
+                  "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut3"><em> 5G: An Evolution Towards a Revolution </em></a>
+                </td>
+                <td>
+                  AM2: <a class="inh" href=
+                  "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut1"><em> Teasing out the multi-scale representational space of cross-modal speech perception: Methods and mechanisms</em></a>
+                </td>
+                <td>
+                  AM3: <a class="inh" href=
+                  "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut2"><em> PCA and Robust PCA for Modern Datasets</em></a>
+                </td>
+              </tr>
+              <tr class="warning">
+                <td>13:00 - 14:15 </td>
+                <td colspan="4" align="center">Lunch</td>
+              </tr>
+              <tr class="odd">
+                <td>14:15 - 17:45</td>
+                <td>
+                  PM1: <a class="inh" href=
+                  "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut6"><em> Need for Low Power Communications and Localization </em></a>
+                </td>
+                <td>
+                  PM2: <a class="inh" href=
+                  "http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut5"><em> Video Streaming: On Rate-Adaptation, Multipath, Virtual Reality, and Content Distribution Network </em></a>
+                </td>
+                <td>
+                  PM3: <a class="inh" href="http://ece.iisc.ernet.in/~spcom/2018/tutorials.html#Tut4"><em> Introduction to Reinforcement Learning </em></a>
+                </td>
+              </tr>
+	      <tr class="even">
+                <td></td>
+                <td>
+                  </td>
+                <td>
+                </td>
+                <td>
+                </td>
+              </tr>
+
+	    </tbody>
+          </table>
+
+
+
+
+
+<br></br>
+
+
+
+
+
+
+
+
+
+
+
+          <table class="table table-striped table-responsive" id=
+          "top">
+            <thead>
+              <tr>
+                <th class="col-md-2">Time</th>
+                <th class="col-md-3">JN Tata Auditorium</th>
+                <th class="col-md-3">Hall A</th>
+                <th class="col-md-2">Hall B</th>
+                <th class="col-md-2">Hall C</th>
+		</tr>
+		</thead>
+		<tbody>
+              <tr class="sessionday">
+                <td class="sessionday" colspan="5">
+                  <h4 class="sessionday">Tuesday, July 17</h4>
+                </td>
+              </tr>
+
+              <tr class="danger">
+                <td>08:00 - 09:00 </td>
+                <td colspan="4" align="center">Registration for SPCOM 2018 at JN Tata Auditorum</td>
+
+              </tr>
+
+
+              <tr class="success">
+                <td>09:00 - 09:15 </td>
+                <td colspan="4" align="center">Conference Inauguration [JN Tata Auditorium]</td>
+              </tr>
+              <tr class="even">
+                <td>09:15 - 10:30 </td>
+                <td>
+                  TU01: <a class="inh" href=
+                  "#S1569556520"><em> Coding for Data Communications
+                  and Storage</em></a>
+                </td>
+                <td>
+                  TU02: <a class="inh" href=
+                  "#S1569556521"><em> Audio and Speech Recognition
+                  and Classification</em></a>
+                </td>
+                <td>
+                  TU03: <a class="inh" href=
+                  "#S1569556522"><em> Optical Communications and
+                  Networks</em></a>
+                </td>
+                <td>
+                  TU04: <a class="inh" href=
+                  "#S1569556523"><em> Compressive Sensing and
+                  Applications</em></a>
+                </td>
+              </tr>
+	      <tr class="warning">
+                <td>10:30 - 11:00 </td>
+                <td colspan="4" align="center">Coffee Break</td>
+              </tr>
+<tr class="danger">
+                                <td>11:00 - 12:00 </td>
+                                <td colspan="4" align="center"><a href="plenary.html#Alex">Plenary Talk by Prof. Alex Vardy [JN Tata Auditorium]</a></td>
+                                </tr>
+              <tr class="warning">
+                <td>12:00 - 12:15 </td>
+                <td colspan="4" align="center">Break</td>
+              </tr>
+
+              <tr class="odd">
+                <td>12:15 - 13:15 </td>
+                <td>
+                  TU05: <a class="inh" href=
+                  "#S1569556524"><em> Cognitive Radio</em></a>
+                </td>
+                <td>
+                  TU06: <a class="inh" href=
+                  "#S1569556525"><em> Applications of Audio and
+                  Speech Processing</em></a>
+                </td>
+                <td>
+                  TU07: <a class="inh" href="#S1569556526"><em> RF
+                  Systems for Communication - 1</em></a>
+                </td>
+                <td>
+                  TU08: <a class="inh" href=
+                  "#S1569556527"><em> Energy Harvesting
+                  Communication Systems</em></a>
+                </td>
+              </tr>
+              <tr class="warning">
+                <td>13:15 - 14:15</td>
+                <td colspan="4" align="center">Lunch</td>
+              </tr>
+
+              <tr class="even">
+                <td>14:15 - 15:30</td>
+                <td>
+                  TU09: <a class="inh" href="#S1569556528"><em> RF
+                  Systems for Communication - 2</em></a>
+                </td>
+                <td>
+                  TU10: <a class="inh" href=
+                  "#S1569556529"><em> Audio and Speech Processing -
+                  1</em></a>
+                </td>
+                <td>
+                  TU11: <a class="inh" href=
+                  "#S1569556530"><em> Image and Video Signal
+                  Processing</em></a>
+                </td>
+                <td>
+                  TU12: <a class="inh" href=
+                  "#S1569556531"><em> Signal Processing Algorithms
+                  and Architecture</em></a>
+                </td>
+              </tr>
+              <tr class="warning">
+                <td>15:30 - 16:00 </td>
+                <td colspan="4" align="center">Coffee Break</td>
+              </tr>
+
+              <tr class="success">
+                <td>16:00 - 17:45</td>
+                <td>
+                  SP.TU13: <a class="inh" href=
+                  "#S1569556789"><em> Full Duplex and LPWAN</em></a>
+                </td>
+                <td>
+                  SP.TU14: <a class="inh" href=
+                  "#Caching"><em> Caching in cellular
+                  networks</em></a>
+                </td>
+                <td>
+		 SP.TU15: <a class="inh" href=
+                  "#Computational"><em> Computational Imaging</em></a>
+
+		</td>
+                <td>
+		SP.TU16: <a class="inh" href="#Estimation"><em> Estimation and information theory</em></a>
+		</td>
+              </tr>
+              <tr class="sessionday">
+                <td class="sessionday" colspan="5">
+                  <div class="page-break"></div>
+                  <h4 class="sessionday">Wednesday, July 18</h4>
+                </td>
+              </tr>
+
+<tr class="danger">
+                <td>08:00 - 09:00 </td>
+                <td colspan="4" align="center">Registration for SPCOM 2018 at JN Tata Auditorum</td>
+
+              </tr>
+
+              <tr class="odd">
+                <td>09:00 - 10:15</td>
+                <td>
+                  WE01: <a class="inh" href=
+                  "#S1569556532"><em> Wireless, Vehicular and Smart
+                  Grid Networks</em></a>
+                </td>
+                <td>
+                  WE02: <a class="inh" href=
+                  "#S1569556533"><em> Speech Recognition</em></a>
+                </td>
+                <td>
+                  WE03: <a class="inh" href="#S1569556534"><em> OFDM
+                  and Multicarrier Techniques</em></a>
+                </td>
+                <td>
+                  WE04: <a class="inh" href="#S1569556535"><em> VLSI
+                  for Communication and Signal Processing</em></a>
+                </td>
+              </tr>
+              <tr class="warning">
+                <td>10:15 - 10:45 </td>
+                <td colspan="4" align="center">Coffee Break</td>
+              </tr>
+
+              <tr class="danger">
+                <td>10:45 - 11:45</td>
+                                <td colspan="4" align="center"><a href="plenary.html#David">Plenary Talk by Prof. David Gesbert [JN Tata Auditorium]</a></td>
+                                </tr>
+
+              <tr class="warning">
+                <td>11:45 - 12:00 </td>
+                <td colspan="4" align="center">Coffee Break</td>
+              </tr> 
+
+
+
+             <tr class="even">
+ <td>12:00 - 13:00</td>
+                <td>
+                  WE05: <a class="inh" href=
+                  "#S1569556536"><em> NB-IoT</em></a>
+                </td>
+                <td>
+                  WE06: <a class="inh" href=
+                  "#S1569556537"><em> Spoken Language
+                  Processing</em></a>
+                </td>
+                <td>
+                  WE07: <a class="inh" href=
+                  "#S1569556538"><em> Forensics and
+                  Security</em></a>
+                </td>
+                <td>
+                  WE08: <a class="inh" href=
+                  "#S1569556539"><em> Physical Layer
+                  Security</em></a>
+                </td>
+              </tr>
+              <tr class="warning">
+                <td>13:00 - 14:00 </td>
+                <td colspan="4" align="center">Lunch</td>
+              </tr> 
+
+              <tr class="odd">
+                <td>14:00 - 15:15</td>
+                <td>
+                  WE09: <a class="inh" href=
+                  "#S1569556540"><em> Massive MIMO</em></a>
+                </td>
+                <td>
+                  WE10: <a class="inh" href=
+                  "#S1569556541"><em> Audio and Speech Processing -
+                  2</em></a>
+                </td>
+                <td>
+                  WE11: <a class="inh" href=
+                  "#S1569556542"><em> Machine Learning/AI for Signal
+                  Processing</em></a>
+                </td>
+                <td>
+                  WE12: <a class="inh" href="#S1569556543"><em> Bio
+                  Signal Processing</em></a>
+                </td>
+              </tr>
+              <tr class="warning">
+                <td>15:15 - 15:45 </td>
+                <td colspan="4" align="center">Coffee Break</td>
+              </tr> 
+
+              <tr class="success">
+                <td>15:45 - 17:30</td>
+                <td>
+                  SP.WE13: <a class="inh" href=
+                  "#S1569556790"><em> Full Duplex
+                  Communications</em></a>
+                </td>
+		<td>
+                  SP.WE14:<a class="inh" href=
+                  "#SpeechProcessing"><em> Speech Processing</em></a>
+		</td>
+		<td>
+		SP.WE15:<a class="inh" href=
+                  "#Security"><em> Security and privacy</em></a>
+		</td>
+                <td>
+		SP.WE16:<a class="inh" href=
+                  "#Quantum"><em> Quantum information technology</em></a>
+		</td>
+              </tr>
+<tr class="warning">
+                <td>19:00 - 21:00 </td>
+                <td colspan="4" align="center"><em>Conference Dinner [Main Guest House Lawns]</em></td>
+              </tr>
+
+              <tr class="sessionday">
+                <td class="sessionday" colspan="5">
+                  <div class="page-break"></div>
+                  <h4 class="sessionday">Thursday, July 19</h4>
+                </td>
+              </tr>
+<tr class="danger">
+                <td>08:00 - 09:00 </td>
+                <td colspan="4" align="center">Registration for SPCOM 2018 at JN Tata Auditorum</td>
+
+              </tr>
+
+
+              <tr class="even">
+                <td>09:00 - 10:15</td>
+                <td>
+                  TH01: <a class="inh" href=
+                  "#S1569556544"><em> Information Theory</em></a>
+                </td>
+                <td>
+                  TH02: <a class="inh" href=
+                  "#S1569556545"><em> Topics in Signal
+                  Processing</em></a>
+                </td>
+                <td>
+                  TH03: <a class="inh" href=
+                  "#S1569556546"><em> Machine Learning/AI and
+                  Applications</em></a>
+                </td>
+                <td>
+                  TH04: <a class="inh" href=
+                  "#S1569556547"><em> Cooperative and Visible Light
+                  Communications</em></a>
+                </td>
+              </tr>
+<tr class="danger">
+                                <td>10:15 - 11:15</td>
+                                <td colspan="4" align="center"><a href="plenary.html#Volkan">Plenary Talk by Prof. Volkan Cevher [JN Tata Auditorium]</a></td>
+                                </tr>
+              <tr class="warning">
+                <td>11:15 - 11:45 </td>
+                <td colspan="4" align="center">Coffee Break</td>
+              </tr> 
+
+	      <tr class="success">
+                <td>11:45 - 13:30</td>
+                <td>
+                  SP.TH05: <a class="inh" href=
+                  "#5G"><em> 5G and next generation networking</em></a>
+                </td>
+                <td>
+                  SP.TH06:<a class="inh" href=
+                  "#Mmwave"><em> Mm-wave and THz systems</em></a>
+                </td>
+                <td>
+                SP.TH07:<a class="inh" href=
+                  "#Deep"><em> Deep learning</em></a>
+                </td>
+		<td></td>
+              </tr>
+              <tr class="warning">
+                <td>13:30 - 14:30 </td>
+                <td colspan="4" align="center">Lunch</td>
+              </tr> 
+
+	      <tr class="danger">
+                <td>14:30 - 16:00 </td>
+                <td colspan="4" align="center">Graduating students session</td>
+              </tr>
+	      <tr class="odd">
+                <td></td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td></td>
+              </tr>
+
+
+
+
+
+
+
+
+
+
+
+            </tbody>
+          </table>
+       </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">SESSION DETAILS</h3>
+        </div>
+        <div class="panel-body">
+          <h3 class="sessionday" id="Tue"><b>Tuesday, July
+          17</b></h3>
+          <h4 class="sessiontime">Tuesday, July 17, 09:15 -
+          10:30</h4>
+          <h4 class="sessiontitle" id="S1569556520">TU01: Coding
+          for Data Communications and Storage</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:15 <span class="papertitle"><i>On the Exact
+              Rate-Memory Trade-off for Multi-access Coded Caching
+              with Uncoded Placement</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Srinivas Reddy Kota (Indian Institute of
+                  Technology, Bombay, India); Nikhil Karamchandani
+                  (Indian Institute of Technology Bombay, India)
+                </div>
+              </dd>
+              <dt>9:33 <span class="papertitle"><i>Stall-Quality
+              Tradeoff for Cloud-based Video
+              Streaming</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Abubakr O. Al-Abbasi and Vaneet Aggarwal (Purdue
+                  University, USA)
+                </div>
+              </dd>
+              <dt>9:52 <span class="papertitle"><i>A Novel
+              Truncation Rule for the EMS Decoding of Non-binary
+              LDPC Codes</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Kuntal Deka (IIIT Guwahati, India); Alentattil
+                  Rajesh (IIT G, India); Prabin Kumar Bora (Indian
+                  Instituite of Technology, India)
+                </div>
+              </dd>
+              <dt>10:11 <span class="papertitle"><i>Locality and
+              Availability with Multiple Erasure
+              Correction</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ujwal Deep Kadiyam (Indian Institute of
+                  Technology Guwahati, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556521">TU02: Audio and
+          Speech Recognition and Classification</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:15 <span class="papertitle"><i>Exploring the
+              Role of Speaking-Rate Adaptation on Children's Speech
+              Recognition</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Syed Shahnawazuddin (National Institute of
+                  Technology Patna, India); Hemant Kathania (NIT
+                  SIkkim, India); Chaman Singh (National Institute
+                  of Technology Patna, India); Waquar Ahmad
+                  (National Institute of Technology Sikkim, India);
+                  Gayadhar Pradhan (NIT patna, India)
+                </div>
+              </dd>
+              <dt>9:33 <span class="papertitle"><i>Proportionate
+              Subband Filtering Technique with L1-Norm for Feedback
+              Cancellation in Hearing Aids</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Vasundhara Vasundhara (IIT Bhubaneswar, India);
+                  Niladri Puhan and Ganapati Panda (Indian
+                  Institute of Technology Bhubaneswar, India)
+                </div>
+              </dd>
+              <dt>9:52 <span class="papertitle"><i>Poetic Meter
+              Classification Using Acoustic Cues</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Rajeev Rajan (Rajiv Gandhi Institute of
+                  Technology Kottayam Kerala India); Anu Raju
+                  (Rajiv Gandhi Institute of Technology, Kottayam,
+                  India)
+                </div>
+              </dd>
+              <dt>10:11 <span class="papertitle"><i>Classification
+              of Story-Telling and Poem Recitation Using Head
+              Gesture of the Talker</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Anurag Das , Prasanta Ghosh and Valliappan CA
+                  (Indian Institute of Science, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556522">TU03: Optical
+          Communications and Networks</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:15 <span class="papertitle"><i>A Novel
+              Protection Strategy for Elastic Optical Networks
+              Based on Space Division Multiplexing</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sridhar Iyer (Jain College of Engineering,
+                  India); Shree Prakash Singh (NSIT, India)
+                </div>
+              </dd>
+              <dt>9:33 <span class="papertitle"><i>Limited Feedback
+              and Interpolation of Principal Modes in Spatially
+              Multiplexed WDM Fiber Links</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Jinesh C Jacob and Kumar Appaiah (Indian
+                  Institute of Technology Bombay, India)
+                </div>
+              </dd>
+              <dt>9:52 <span class="papertitle"><i>Utility of
+              Delayed CSI Feedback in Mode Division Multiplexed
+              Multimode Fiber Links</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Rohan Prasad (Indian Intitute of Technology
+                  Bombay, India); Kumar Appaiah (Indian Institute
+                  of Technology Bombay, India)
+                </div>
+              </dd>
+              <dt>10:11 <span class="papertitle"><i>Demonstration
+              of Polarization Diversity Based SH-QPSK System with
+              PSK Modulated Carrier</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Rashmi Kamran (IIT Mumbai, India); Shalabh Gupta
+                  (IIT Bombay, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556523">TU04:
+          Compressive Sensing and Applications</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:15 <span class="papertitle"><i>Sinusoid Signal
+              Estimation Using Generalized Block Orthogonal
+              Matching Pursuit Algorithm</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Manoj A (Indian Institute of Technology Madras,
+                  India); Arun Pachai Kannu (IIT Madras, India)
+                </div>
+              </dd>
+              <dt>9:33 <span class="papertitle"><i>Binary
+              Compressive Sensing and Super-Resolution with Unknown
+              Threshold</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Subhadip Mukherjee , Anjany Kumar Sekuboyina and
+                  Chandra Sekhar Seelamantula (Indian Institute of
+                  Science, India)
+                </div>
+              </dd>
+              <dt>9:52 <span class="papertitle"><i>A Singular Value
+              Relaxation Technique for Learning Sparsifying
+              Transforms</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Subhadip Mukherjee and Chandra Sekhar
+                  Seelamantula (Indian Institute of Science, India)
+                </div>
+              </dd>
+              <dt>10:11 <span class="papertitle"><i>A Low
+              Complexity Orthogonal Least Squares Algorithm for
+              Sparse Signal Recovery</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Samrat Mukhopadhyay (Indian Institute of
+                  Technology, Kharagpur, India); Siddhartha
+                  Satpathi (University of Illinois, USA);
+                  Mrityunjoy Chakraborty (Indian Institute of
+                  Technology., Kharagpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontime">Tuesday, July 17, 12:15 -
+          13:15</h4>
+          <h4 class="sessiontitle" id="S1569556524">TU05: Cognitive
+          Radio</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:15 <span class="papertitle"><i>On Outage
+              Secrecy Minimization Using Jammer Selection in Energy
+              Harvesting Cognitive Radio</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Avik Banerjee and Santi Prasad Maity (Indian
+                  Institute of Engineering Science and Technology,
+                  Shibpur, India); Ritesh Das (Indian Institute Of
+                  Engineering Science and Technology, India)
+                </div>
+              </dd>
+              <dt>12:35 <span class="papertitle"><i>Optimal Power
+              Allocation for Multicasting in Multiple Antenna
+              Cognitive Radio Networks</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sangeeta Bhattacharjee (Indian Institute of
+                  Engineering Science and Technology, Shibpur,
+                  India); Tamaghna Acharya (Indian Institute of
+                  Engineering Science and Technology Shibpur,
+                  India); Uma Bhattacharya (Bengal Engineering &amp;
+                  Science University, Shibpur, India)
+                </div>
+              </dd>
+              <dt>12:55 <span class="papertitle"><i>Preventing
+              Collusion Attacks in Cooperative Spectrum
+              Sensing</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Shivanshu Shrivastava (Indian Institute of
+                  Technology Kanpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556525">TU06:
+          Applications of Audio and Speech Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:15 <span class="papertitle"><i>Processing
+              Linear Prediction Residual Signal to Counter Replay
+              Attacks</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Jagabandhu Mishra , Madhusudan Singh and
+                  Debadatta Pati (National Institute of Technology
+                  Nagaland, India)
+                </div>
+              </dd>
+              <dt>12:35 <span class="papertitle"><i>Detecting
+              Developmental Dysphasia in Children Using Speech
+              Data</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ramarao D , Chaman Singh and Syed Shahnawazuddin
+                  (National Institute of Technology Patna, India);
+                  Nagaraj Adiga (Indian Institute of Technology
+                  Guwahati, India); Gayadhar Pradhan (NIT patna,
+                  India)
+                </div>
+              </dd>
+              <dt>12:55 <span class="papertitle"><i>Hypernasality
+              Detection Using Zero Time Windowing</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Akhilesh Dubey (Indian Institute of Technology,
+                  Guwahati, India); S. R. Mahadeva Prasanna (Indian
+                  Institute of Technology Guwahati, India);
+                  Samarendra Dandapat (IITG, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556526">TU07: RF
+          Systems for Communication - 1</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:15 <span class="papertitle"><i>Novel Approach
+              for Enhanced Reduction of SAR in a Mobile Phone
+              Antenna Using High Impedance FSS</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Adeline Mellita and Chandu DS (Indian Institute
+                  of Information Technology Design and
+                  Manufacturing, India); Sholampettai Subramanian
+                  Karthikeyan (IIITDM, Kancheepuram, India)
+                </div>
+              </dd>
+              <dt>12:35 <span class="papertitle"><i>A Novel
+              Circular Quarter-Mode SIW Cavity-Backed Diversity
+              Antenna with Dual-Circular
+              Polarization</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Chandu DS (Indian Institute of Information
+                  Technology Design and Manufacturing, India);
+                  Tharani D (IIITDM Kancheepuram, India);
+                  Sholampettai Subramanian Karthikeyan (IIITDM,
+                  Kancheepuram, India)
+                </div>
+              </dd>
+              <dt>12:55 <span class="papertitle"><i>Design of
+              Substrate Integrated Coaxial Line (SICL) Fed Planar
+              Quasi-Yagi Antenna for Millimeter Wave
+              Application</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Naman Baghel and Soumava Mukherjee (Indian
+                  Institute of Technology Jodhpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556527">TU08: Energy
+          Harvesting Communication Systems</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:15 <span class="papertitle"><i>Performance of
+              a Cooperative Network with Direct Link and an
+              Energy-Buffer Aided Relay</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Dileep Bapatla (Indian Institute of Technology
+                  Delhi, India); Shankar Prakriya (Indian Institute
+                  of Technology, Delhi, India)
+                </div>
+              </dd>
+              <dt>12:35 <span class="papertitle"><i>On Outage
+              Analysis in Cooperative Cognitive Radio Network with
+              RF Energy Harvesting</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sutanu Ghosh (Indian Institute of Engineering
+                  Science and Technology &amp; JIS GROUP, India);
+                  Tamaghna Acharya (Indian Institute of Engineering
+                  Science and Technology Shibpur, India); Santi
+                  Prasad Maity (Indian Institute of Engineering
+                  Science and Technology, Shibpur, India)
+                </div>
+              </dd>
+              <dt>12:55 <span class="papertitle"><i>Optimal
+              Harvest-or-Transmit Strategy for Energy Harvesting
+              Underlay Cognitive Radio Network</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Kalpant Pathak (Indian Institute of Technology
+                  Kanpur, India); Adrish Banerjee (Indian Institute
+                  of Technology, Kanpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontime">Tuesday, July 17, 14:15 -
+          15:30</h4>
+          <h4 class="sessiontitle" id="S1569556528">TU09: RF
+          Systems for Communication - 2</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:15 <span class=
+              "papertitle"><i>Cross-Polarization Reduction of a
+              Cylindrical Dielectric Resonator Antenna with
+              Parasitic Strip Loading</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Praveen Kumar AV and Anuj Ojha (BITS Pilani
+                  Rajasthan, India)
+                </div>
+              </dd>
+              <dt>2:33 <span class="papertitle"><i>Slot Antenna
+              Miniaturization with Equal Electrical Path Length
+              Using Different Shape of Loops</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sk. Moinul Haque (IIT Kharagpur, India); Khan
+                  Masood Parvez (Aliah University, India)
+                </div>
+              </dd>
+              <dt>2:52 <span class="papertitle"><i>Copper Coin
+              Loaded Miniaturized Slot Antenna</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Khan Masood Parvez (Aliah University, India); Sk.
+                  Moinul Haque (IIT Kharagpur, India); Enamul Khan
+                  (Aliah University, India)
+                </div>
+              </dd>
+              <dt>3:11 <span class="papertitle"><i>Design of
+              Wideband Coaxial-to-Substrate Integrated Coaxial Line
+              (SICL) Planar Transition</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Satya Krishna Idury and Soumava Mukherjee (Indian
+                  Institute of Technology Jodhpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556529">TU10: Audio and
+          Speech Processing - 1</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:15 <span class="papertitle"><i>Instantaneous
+              Fundamental Frequency Estimation of Speech Signals
+              Using tunable-Q Wavelet Transform</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Anurag Nishad and Ram Bilas Pachori (Indian
+                  Institute of Technology Indore, India)
+                </div>
+              </dd>
+              <dt>2:33 <span class="papertitle"><i>Enhanced
+              Directional Sensitivity Using Acoustic Dish
+              Reflector</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sawant Vilas (IISc Bangalore, India); Anirban
+                  Bhowmick (IISc Bangalore,India); Thippur V.
+                  Sreenivas (Indian Institute of Science, India)
+                </div>
+              </dd>
+              <dt>2:52 <span class="papertitle"><i>Excitation
+              Source Feature for Discriminating Shouted and Normal
+              Speech</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Shikha Baghel (Indian Institute of Technology,
+                  Guwahati, India); S. R. Mahadeva Prasanna (Indian
+                  Institute of Technology Guwahati, India);
+                  Prithwijit Guha (IIT Guwahati, India)
+                </div>
+              </dd>
+              <dt>3:11 <span class="papertitle"><i>Frequency
+              Contour Modeling to Synthesize Natural Flute
+              Renditions for Carnatic Music</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Pranav Prasad , Anand Ashtamoorthy and Shashank
+                  Dhar (National Institute of Technology Karnataka,
+                  Surathkal, India); Deepu Vijayasenan (NITK,
+                  India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556530">TU11: Image and
+          Video Signal Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:15 <span class="papertitle"><i>Fast Non-local
+              Means Denoising for MR Image
+              Sequences</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Hemalata Bhujle (SDM College of Engineering &amp;
+                  Technology, Dharwad, India); Basavaraj Vadavadagi
+                  (SDM College of Engineering &amp; Technology,
+                  Dharwad, India)
+                </div>
+              </dd>
+              <dt>2:33 <span class="papertitle"><i>Diagnostic
+              Information Based Super-Resolution of Retinal Optical
+              Coherence Tomography Images</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Vineeta Das (Indian Institute of Technology,
+                  Guwahati, India); Samarendra Dandapat (IITG,
+                  India); Prabin Kumar Bora (Indian Institute of
+                  Technology Guwahati, India)
+                </div>
+              </dd>
+              <dt>2:52 <span class="papertitle"><i>Object-based
+              Compression of 3D Animation Geometry</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sanjib Das and Prabin Kumar Bora (Indian
+                  Institute of Technology Guwahati, India)
+                </div>
+              </dd>
+              <dt>3:11 <span class="papertitle"><i>Learning
+              Representations with Strong Supervision for Image
+              Search</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Konda Reddy Mopuri (Indian Institute of Science
+                  Bangalore, India); Vishal Athreya Baskaran
+                  (PayPal Inc &amp; Birla Institute of Technology and
+                  Science Hyderabad, India); Venkatesh Babu
+                  Radhakrishnan (Indian Institute of Science,
+                  India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556531">TU12: Signal
+          Processing Algorithms and Architecture</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:15 <span class="papertitle"><i>Time-Frequency
+              Analysis of Gravitational Waves</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Pushpendra Singh (Bennett University, Greater
+                  Noida &amp; Indian Institute of Technology, Delhi,
+                  India); Amit Singhal (JIIT, India); Shiv Dutt
+                  Joshi (Indian Institute of Technology, Delhi,
+                  India)
+                </div>
+              </dd>
+              <dt>2:33 <span class="papertitle"><i>A Novel
+              Recursive Filter Realization of Discrete Time
+              Filters</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ganesan Thiagarajan , Joydeep Bhattacharya ,
+                  Srinivasan Bhuramoorthy and Ashwini Kamate
+                  (MMRFIC Technology Pvt. Ltd, India)
+                </div>
+              </dd>
+              <dt>2:52 <span class="papertitle"><i>A Novel Weight
+              Window Design Approach</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sachin Bharadwaj (IISc, India); Sriram Murali
+                  (Texas Instruments India, India)
+                </div>
+              </dd>
+              <dt>3:11 <span class="papertitle"><i>A Novel Scaling
+              Criterion for Optimal Trade-off Between Time and
+              Frequency Resolution in S-transform</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Neha Singh (Indian Institute of Technology,
+                  Roorkee, India); Pyari Mohan Pradhan (Indian
+                  Institute of Technology (IIT) Roorkee, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontime">Tuesday, July 17, 16:00 -
+          17:45</h4>
+          <h4 class="sessiontitle" id="S1569556789">SP.TU13: Full
+          Duplex and LPWAN</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>4:00 <span class="papertitle"><i><a href="invited.html#Rohit">QoS-Constrained
+              Energy-Efficient AF Two-Way Full-Duplex Relaying with
+              Massive Antennas</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ekant Sharma (Indian Institute of Technology,
+                  Kanpur, India); Rohit Budhiraja (IIT Kanpur,
+                  India)
+                </div>
+              </dd>
+
+
+              <dt>4:26 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Dinesh">Full Duplex Wireless: A solution for next generation or not yet?</a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Dinesh Bharadia  (University of California San Diego )
+                </div>
+              </dd>
+              
+
+	      <dt>4:52 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Ganesan">Recent Developments in IOT: A system perspective </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ganesan Thiagarajan  (MMRFIC Technology Private Limited, Bangalore )
+                </div>
+              </dd>
+
+
+
+	      <dt>5:18 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Jean">Compressed Sensing Based Uncoordinated and Unsourced Multiple Access</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Jean-Francois Chamberland-Tremblay (Texas A &amp; M University)
+                </div>
+              </dd>
+
+<dd></div>
+	<h4 class="sessiontitle" id="Caching">SP.TU14: Caching in cellular networks</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>4:00 <span class="papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Nikhil">Content Caching and Delivery with Partial Adaptive Matching</a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Nikhil Karamchandani  (Indian Institute of Technology,
+                  Bombay, India)
+                </div>
+              </dd>
+              <dt>4:26 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Suhas">Approximate optimality of separation in cache-aided wireless interference networks. </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Suhas Diggavi   (University of California, Los Angeles )
+                </div>
+              </dd>
+              
+
+	      <dt>4:52 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Aditya">Coded Caching Schemes with Reduced Subpacketization from Linear Block Codes </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Aditya Ramamoorthy   (Iowa State University )
+                </div>
+              </dd>
+
+
+
+	      <dt>5:18 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Bharath">Caching in Cellular Networks: A Learning Theoretic Perspective</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Bharath N. Bettagere (IIT Dharwad)
+                </div>
+              </dd>
+
+</div>
+
+
+<dd><h4 class="sessiontitle" id="Computational">SP.TU15: Computational Imaging</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>4:00 <span class="papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Jacob">Structured low-rank algorithms: a novel framework for super-resolution recovery of curves and images</a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Mathews Jacob   (University of Iowa)
+                </div>
+              </dd>
+              <dt>4:26 <span class=
+              "papertitle"><i><a href="invited.html#Kaushik">Structured low-rank algorithms: a novel framework for super-resolution recovery of curves and images</a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Kaushik Mitra   (IIT Madras)
+                </div>
+              </dd>
+              
+
+	      <dt>4:52 <span class=
+              "papertitle"><i><a href="invited.html#Adithya"> SPToF: Signal processing for Time-of-Flight cameras </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Adithya Pediredla   (Rice University)
+                </div>
+              </dd>
+
+
+
+	      <dt>5:18 <span class=
+              "papertitle"><i><a href="invited.html#Kedar">Sparsity Assisted Optical Phase Imaging </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Kedar Khare (IIT Delhi)
+                </div>
+              </dd>
+
+
+
+</div>
+
+<dd><h4 class="sessiontitle" id="Estimation">SP.TU16: Estimation and information theory</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>4:00 <span class="papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Shun">Proving strong converse is difficult? </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Shun Watanabe   (Tokyo University of Agriculture and Technology)
+                </div>
+              </dd>
+              <dt>4:26 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Salim">Secret Sharing for Secure and Private Distributed Coded Computation. </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Salim El Rouayheb    (Rutgers University )
+                </div>
+              </dd>
+              
+
+	     <dt>4:52 <span class=
+              "papertitle"><i>TBD</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Tara Javidi (University of California San Diego)
+                </div>
+              </dd> 
+
+
+
+	      <dt>5:18 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Prakash">Data Privacy for a $\rho$-Recoverable Function</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Prakash Narayan  (University of Maryland)
+                </div>
+              </dd>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!--</dl>This session also features <a href="invited.html" -->
+            <!-- class="inv-redirect">invited talks</a>. -->
+        
+          <h3 class="sessionday" id="Wed"><b>Wednesday, July
+          18</b></h3>
+          <h4 class="sessiontime">Wednesday, July 18, 09:00 -
+          10:15</h4>
+          <h4 class="sessiontitle" id="S1569556532">WE01: Wireless,
+          Vehicular and Smart Grid Networks</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class=
+              "papertitle"><i>Age-of-Information Aware
+              Scheduling</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Prakirt Raj Jhunjhunwala (Indian Institute of
+                  Technology, Bombay, India); Sharayu Moharir
+                  (Indian Institute of Technology Bombay, India)
+                </div>
+              </dd>
+              <dt>9:18 <span class="papertitle"><i>Platform
+              Competition for Throughput in Two-sided Freelance
+              Markets</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Mansi Sood , Ankur A. Kulkarni and Sharayu
+                  Moharir (Indian Institute of Technology Bombay,
+                  India)
+                </div>
+              </dd>
+              <dt>9:37 <span class="papertitle"><i>Routing and
+              Scheduling Transient Flows for QoS in Multi-hop
+              Wireless Networks</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Vinay Siram (Indian Institute of Science,
+                  Bangalore, India); Karthikeshwar Varma Dasaraju
+                  and Prakash Barman (Indian Institute of Science,
+                  India); Surekha Yellisetty (Mediatek Bangalore
+                  Pvt Ltd, India); Padma Desiraju and Saurabh
+                  Mandal (CAIR &amp; DRDO, India); Suvina M Vijayan
+                  (CAIR, DRDO, India); Prakash Chand (DRDO, India);
+                  Utpal Mukherji and Vinod Sharma (Indian Institute
+                  of Science, India)
+                </div>
+              </dd>
+              <dt>9:56 <span class="papertitle"><i>Menu-Based
+              Pricing for Profitable Electric Vehicle Charging with
+              Vehicle-to-Grid Service</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Arnob Ghosh (Purdue University &amp; University of
+                  Pennsylvania, USA); Vaneet Aggarwal (Purdue
+                  University, USA)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556533">WE02: Speech
+          Recognition</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Enhancing Pitch
+              Robustness of Speech Recognition System Through
+              Spectral Smoothing</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Bandarupalli Tarun Sai , Ishwar Chandra Yadav and
+                  Syed Shahnawazuddin (National Institute of
+                  Technology Patna, India); Gayadhar Pradhan (NIT
+                  patna, India)
+                </div>
+              </dd>
+              <dt>9:18 <span class="papertitle"><i>Some Experiments
+              on Context Mismatched Speech
+              Recognition</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Abhishek Dey (GUIST Gauhati University, India);
+                  Syed Shahnawazuddin (National Institute of
+                  Technology Patna, India); Rohit Sinha (Indian
+                  Institute of Technology Guwahati, India)
+                </div>
+              </dd>
+              <dt>9:37 <span class="papertitle"><i>Detection of
+              Vowel Offset Points Using Non-Local Similarity
+              Between Speech Samples</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Avinash Kumar (NIT patna, India); Syed
+                  Shahnawazuddin (National Institute of Technology
+                  Patna, India); Gayadhar Pradhan (NIT patna,
+                  India)
+                </div>
+              </dd>
+              <dt>9:56 <span class="papertitle"><i>Improving
+              Children's Speech Recognition Through Time Scale
+              Modification Based Speaking Rate
+              Adaptation</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Hemant Kathania (NIT SIkkim, India); Syed
+                  Shahnawazuddin (National Institute of Technology
+                  Patna, India); Waquar Ahmad (National Institute
+                  of Technology Sikkim, India); Nagaraj Adiga
+                  (University of Crete, India); Sanjay Jana (NIT
+                  SIKKIM, India); Arun Samaddar (Director, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556534">WE03: OFDM and
+          Multicarrier Techniques</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Non-orthogonal
+              Transmultiplexers for FBMC with Controlled
+              ISI</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Arjun R and Ashish Sukhwani (IIT Bombay, India);
+                  Kumar Appaiah (Indian Institute of Technology
+                  Bombay, India); Vikram M. Gadre (IIT Bombay,
+                  India)
+                </div>
+              </dd>
+              <dt>9:18 <span class="papertitle"><i>Iterative
+              Channel and Symbol Estimation for OFDM and for SIMO
+              Diversity</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Yash Vasavada (Dhirubhai Ambani Institute of
+                  Information and Communication Technology, India);
+                  Jeffrey Reed (Virginia Tech, USA); A. A. (Louis)
+                  Beex (DSPRL - Wireless@VT &amp; Virginia Tech, USA)
+                </div>
+              </dd>
+              <dt>9:37 <span class="papertitle"><i>Time-domain
+              Complexity Analysis of Impulse Noise Sources for
+              xDSL/PLC Systems</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Neelima Singh (IIT Delhi, New Delhi, India);
+                  Brejesh Lall (Indian Institute of Technology
+                  Delhi, India)
+                </div>
+              </dd>
+              <dt>9:56 <span class="papertitle"><i>Multiplexing
+              Reference Signals and Data in a DFT-s-OFDM
+              Symbol</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Chandrashekhar Thejaswi Pataguppe Suryanarayan
+                  Bhat (Samsung R&amp;;D Institute India, Bangalore,
+                  India); SaiDhiraj Amuru (Samsung, India); Jinesh
+                  P Nair (Nokia Networks, India); Atanu Guchhait
+                  (Samsung R&amp;;D Institute India - Bangalore,
+                  India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556535">WE04: VLSI for
+          Communication and Signal Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Floorplan Based
+              Performance Evaluation of 3D Variants of Mesh and BFT
+              Networks-on-Chip</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Bheemappa Halavar (National Institute of
+                  Technology Karnataka Mangalore, India); Basavaraj
+                  Talawar (National Institute of Technology
+                  Karnataka, India)
+                </div>
+              </dd>
+              <dt>9:20 <span class="papertitle"><i>Low Complexity
+              Algorithm for Multi-path Video
+              Streaming</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Anis Elgabli , Vaneet Aggarwal and Ke Liu (Purdue
+                  University, USA)
+                </div>
+              </dd>
+              <dt>9:40 <span class="papertitle"><i>Affine Boolean
+              Classification with FPGA Implementation on Secret
+              Image Sharing</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Tapasi Bhattacharjee (WBUT, India); Hirak Maity
+                  (College of Engineering and Management, Kolaghat,
+                  India); Santi Prasad Maity (Indian Institute of
+                  Engineering Science and Technology, Shibpur,
+                  India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontime">Wednesday, July 18, 12:00 -
+          13:00</h4>
+          <h4 class="sessiontitle" id="S1569556536">WE05:
+          NB-IoT</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:00 <span class="papertitle"><i>Reference
+              Signals Based Time and Frequency Tracking in
+              NB-IoT</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sriharsha Magani and Kiran Kuchi (IIT Hyderabad,
+                  India)
+                </div>
+              </dd>
+              <dt>12:20 <span class="papertitle"><i>Digital
+              Predistortion for Narrowband IoT
+              Applications</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Yuva Kumar (Keio University, Japan); Seetharam
+                  Kashyap and Sreenath Ramanath (Lekha Wireless
+                  Solutions, India)
+                </div>
+              </dd>
+              <dt>12:40 <span class="papertitle"><i>Low Complexity
+              ML Synchronization for 3GPP NB-IoT</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sripada Kadambar (Samsung R&amp;;D Institute India
+                  - Bangalore, India); Ashok Kumar Reddy Chavva
+                  (Samsung Electronics, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556537">WE06: Spoken
+          Language Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:00 <span class="papertitle"><i>A Novel
+              Approach for Effective Recognition of the
+              Code-Switched Data on Monolingual Language
+              Model</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ganji Sreeram (IIT Guwahati, India)
+                </div>
+              </dd>
+              <dt>12:20 <span class="papertitle"><i>An SVD Based
+              Approach for Spoken Language
+              Identification</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Manish Jain and Malarvizhi Sundaresan Saranya
+                  (Indian Institute of Technology, Madras, India);
+                  Hema A Murthy (Indian Institute of Technology
+                  Madras, India)
+                </div>
+              </dd>
+              <dt>12:40 <span class="papertitle"><i>Enhancement of
+              Bone Conducted Speech Signal by Wavelet
+              Transform</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Premjeet Singh (Birla Institute of Technology
+                  Mesra, India); Manoj Mukul (Birla Institute of
+                  Technology Mesra Ranchi India); Rajkishore Prasad
+                  (BN College Patna india)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556538">WE07: Forensics
+          and Security</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:00 <span class="papertitle"><i>DeepPalm- A
+              Unified Framework for Personal Human
+              Authentication</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Gaurav Jaswal (NIT Hamirpur India, India); Aditya
+                  Nigam (IIT Mandi, India); Amit Kaul and Ravinder
+                  Nath (NIT Hamirpur, India)
+                </div>
+              </dd>
+              <dt>12:20 <span class="papertitle"><i>Tensor Total
+              Variation Regularized Moving Object Detection for
+              Surveillance Videos</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Anju Jose Tom (NIT Calicut, India); Sudhish N
+                  George (National Institute of Technology,
+                  Calicut, India)
+                </div>
+              </dd>
+              <dt>12:40 <span class="papertitle"><i>Replay Attack
+              Detection in Speaker Verification Using Non-Voiced
+              Segments and Decision Level Feature
+              Switching</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Malarvizhi Sundaresan Saranya (Indian Institute
+                  of Technology, Madras, India); Hema A Murthy
+                  (Indian Institute of Technology Madras, India);
+                  Padmanabhan Rajan (IIT Mandi, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556539">WE08: Physical
+          Layer Security</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>12:00 <span class="papertitle"><i>Two Receiver
+              Relay Broadcast Channel with Mutual
+              Secrecy</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Krishnamoorthy Iyer (IIT Bombay, India)
+                </div>
+              </dd>
+              <dt>12:20 <span class="papertitle"><i>Practical
+              Physical-Layer Group Secret-Key Generation in
+              Three-User Wireless Networks</i></span></dt>
+              <dd>
+                <div class="authors">
+                  J Harshan and Manish Rao (Indian Institute of
+                  Technology Delhi, India)
+                </div>
+              </dd>
+              <dt>12:40 <span class="papertitle"><i>Jammer Assisted
+              SEE Maximization in Decode-and-Forward Relay
+              Network</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Kirti Kant Sharma (IIT Delhi, India); Ranjan Bose
+                  (Indian Institute of Technology, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontime">Wednesday, July 18, 14:00 -
+          15:15</h4>
+          <h4 class="sessiontitle" id="S1569556540">WE09: Massive
+          MIMO</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:00 <span class="papertitle"><i>Uplink Training
+              for Massive MIMO Systems Under Channel
+              Aging</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ribhu Chopra (Indian Institute of Technology
+                  Guwahati, India)
+                </div>
+              </dd>
+              <dt>2:18 <span class="papertitle"><i>Single-User
+              mmWave Massive MIMO: SVD-based ADC Bit Allocation and
+              Combiner Design</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Fnu I. Zakir Ahmed (University of California
+                  Santa Cruz, USA); Hamid Sadjadpour (University of
+                  California, Santa Cruz, USA); Shahram Yousefi
+                  (Queen's University, Canada)
+                </div>
+              </dd>
+              <dt>2:37 <span class="papertitle"><i>Kalman Filter
+              Based Tracking for Channel Aging in Massive MIMO
+              Systems</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Vikas Arya (Indian Institute of Technology
+                  BOMBAY, India); Kumar Appaiah (Indian Institute
+                  of Technology Bombay, India)
+                </div>
+              </dd>
+              <dt>2:56 <span class="papertitle"><i>Hybrid Block
+              Diagonalization for Massive MIMO Two-Way Half-Duplex
+              AF Hybrid Relay</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Arpita Chauhan (Indian Institute of Technology,
+                  India); Ekant Sharma (Indian Institute of
+                  Technology, Kanpur, India); Rohit Budhiraja (IIT
+                  Kanpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556541">WE10: Audio and
+          Speech Processing - 2</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:00 <span class="papertitle"><i>Broad Phoneme
+              Class Specific Deep Neural Network Based Speech
+              Enhancement</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Pavan Karjol and Prasanta Kumar Ghosh (Indian
+                  Institute of Science, India)
+                </div>
+              </dd>
+              <dt>2:18 <span class="papertitle"><i>Radial Filter
+              Design Using Kaiser Window Polynomials for Speech
+              Source Separation</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Vishnuvardhan Varanasi and Ayushya Agarwal (IIT
+                  Kanpur, India); Rajesh M Hegde (Indian Institute
+                  of Technology Kanpur, India)
+                </div>
+              </dd>
+              <dt>2:37 <span class="papertitle"><i>Feature
+              Extraction from Temporal Phase for Speaker
+              Recognition</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ami Gandhi (Infinium Solutionz Pvt. Ltd, India);
+                  Hemant A. Patil (Dhirubhai Ambani Institute of
+                  Information and Communication Technology, India)
+                </div>
+              </dd>
+              <dt>2:56 <span class="papertitle"><i>Model Order
+              Estimation Using Ratio of Cumulative Sums of
+              Eigenvalues</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Palakkal Vishnu (Indian Institute of Technology
+                  Madras, India); C S Ramalingam (IITM, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556542">WE11: Machine
+          Learning/AI for Signal Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:00 <span class="papertitle"><i>Recursive
+              Network with Explicit Neighbor Connection for Image
+              Captioning</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Mohammedsayeemuddin Shaikh and Manjunath V. Joshi
+                  (DA-IICT, India)
+                </div>
+              </dd>
+              <dt>2:18 <span class="papertitle"><i>Estimating
+              Confidence for Deep Neural Networks Through Density
+              Modeling</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Akshayvarun Subramanya , Suraj Srinivas and
+                  Venkatesh Babu Radhakrishnan (Indian Institute of
+                  Science, India)
+                </div>
+              </dd>
+              <dt>2:37 <span class="papertitle"><i>Decentralized
+              Asynchronous Stochastic Gradient Descent: Convergence
+              Rate Analysis</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Amrit Singh Bedi and Hrusikesha Pradhan (IIT
+                  Kanpur, India); Ketan Rajawat (Indian Institute
+                  of Technology Kanpur, India)
+                </div>
+              </dd>
+              <dt>2:56 <span class="papertitle"><i>Dynamic Network
+              Latency Prediction with Adaptive Matrix
+              Completion</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ruchi Tripathi (IIT Kanpur, India); Ketan Rajawat
+                  (Indian Institute of Technology Kanpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556543">WE12: Bio
+          Signal Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>2:00 <span class="papertitle"><i>Compressed
+              Sensing Recovery Using Modified Newton Gradient
+              Pursuit Algorithm and Its Application to ECG with
+              Denoising</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Anupama Arun (Indian Institute of Space Science
+                  and Technology, India); Sheeba Rani J (IIST
+                  Trivandrum, India); Thomas James Thomas (Indian
+                  Institute of Space Science and Technology, India)
+                </div>
+              </dd>
+              <dt>2:18 <span class="papertitle"><i>Suppression of
+              Artifacts from Seismocardiogram Signal Using
+              Two-Stage Kalman Filtering Model</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Tilendra Choudhary (Indian Institute of
+                  Technology Guwahati, India); L N Sharma and Manas
+                  Kamal Bhuyan (IIT Guwahati, India)
+                </div>
+              </dd>
+              <dt>2:37 <span class="papertitle"><i>Detection of
+              Heart Sound Using Logistic Function Amplitude
+              Moderator and Teager-Kaiser Energy
+              Operator</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Alex Paul Kamson and L N Sharma (IIT Guwahati,
+                  India); Samarendra Dandapat (IITG, India)
+                </div>
+              </dd>
+              <dt>2:56 <span class="papertitle"><i>Discriminative
+              Periodic Component Analysis for SSVEP Based
+              BCI</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Kiran Kumar Guruswamy Ravindran (Indian Institute
+                  of Technology Madras, India); RamasubbaReddy
+                  Machireddy (IITM, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontime">Wednesday, July 18, 15:45 -
+          16:30</h4>
+          <h4 class="sessiontitle" id="S1569556790">SP.WE13: Full
+          Duplex Communications</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>3:45 <span class=
+              "papertitle"><i><a href="invited.html#Taneli">Self-interference Modeling and
+              Digital Cancellation Along with Full-Duplex Wireless
+              System Analysis</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Dani Korpi , Taneli Riihonen , Lauri Anttila and
+                  Mikko Valkama (Tampere University of Technology,
+                  Finland)
+                </div>
+              </dd>
+              <dt>4:11 <span class=
+              "papertitle"><i><a href="invited.html#Harish_Full">Self-Interference Cancellation via
+              Beamforming in an Integrated Full Duplex
+              Circulator-Receiver Phased Array</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Mahmood Baraani Dastjerdi , Tingjun Chen , Negar
+                  Reiskarimian , Gil Zussman and Harish
+                  Krishnaswamy (Columbia University, USA)
+                </div>
+              </dd>
+
+
+
+
+
+
+              
+
+	      <dt>4:37 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Radhakrishna">Performance of LTE and 5G-NR cellular networks with full-duplex nodes  </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Radhakrishna Ganti  (IIT Madras)
+                </div>
+              </dd>
+
+
+
+	      <dt>5:03 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Andreas">Full-Duplex Communication with Imperfect Self-Interference Cancellation</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Andreas Burg (&Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne)
+                </div>
+              </dd>
+
+<dd>	<h4 class="sessiontitle" id="SpeechProcessing">SP.WE14: Speech Processing</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+             <dt>3:45 <span class="papertitle"><i>TBD</i></span></dt>
+              <dd>
+                <div class="authors">
+                  V. Ramasubramanian  (IIIT Bangalore)
+                </div>
+              </dd>
+              <dt>4:11 <span class=
+              "papertitle"><i>TBD </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Chandra Sekhar Seelamantula   (IISc Bangalore)
+                </div>
+              </dd>
+              
+
+	      <dt>4:37 <span class=
+              "papertitle"><i>TBD</i></span></dt>
+              <dd>
+                <div class="authors">
+                   Prasanta Kumar Ghosh  (IISc Bangalore)
+                </div>
+              </dd>
+
+
+
+	      <dt>5:03 <span class=
+              "papertitle"><i>TBD</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sriram Ganapathy (IISc Bangalore)
+                </div>
+              </dd> 
+
+
+
+<dd><h4 class="sessiontitle" id="Security">SP.WE15: Security and privacy</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>3:45 <span class="papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Siddharth">Backdoored Neural Networks (BadNets) </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Siddharth Garg    (NYU)
+                </div>
+              </dd>
+              <dt>4:11 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Vyas">Software-defined security for next generation networks </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Vyas Sekar   (Carnegie Mellon University)
+                </div>
+              </dd>
+              
+
+	      <dt>4:37 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Sandeep">Signal Processing Problems in Cyber Physical System Security. </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                   Sandeep K. Shukla    (IIT Kanpur )
+                </div>
+              </dd>
+
+
+
+	      <dt>5:03 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Alexander">Estimation of discrete distributions under local differential privacy </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Alexander Barg (University of Maryland)
+                </div>
+              </dd>
+
+
+
+
+
+<dd><h4 class="sessiontitle" id="Quantum">SP.WE16: Quantum information technology</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>3:45 <span class="papertitle"><i>TBD</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Apoorva Patel   (IISc Bangalore)
+                </div>
+              </dd>
+              <dt>4:11 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Anand">Efficient measurement of high-dimensional quantum states  </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Anand Kumar Jha     (IIT Kanpur)
+                </div>
+              </dd>
+              
+
+	     <dt>4:37 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Rahul"> Quantum Communication Using Coherent Rejection Sampling   </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Rahul Jain (National University of Singapore)
+                </div>
+              </dd>
+
+
+
+	      <dt>5:03 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Prabha">The theory and practice of quantum key distribution (QKD) </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                 Prabha Mandayam   (IIT Madras)
+                </div>
+              </dd>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!--</dl>This session also features <a href="invited.html"
+            class="inv-redirect">invited talks</a>.-->
+	</div>
+          <h3 class="sessionday" id="Thu"><b>Thursday, July
+          19</b></h3>
+          <h4 class="sessiontime">Thursday, July 19, 09:00 -
+          10:15</h4>
+          <h4 class="sessiontitle" id="S1569556544">TH01:
+          Information Theory</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Degraded Relay
+              Channel with Non-causal State Information at the
+              Source and Relay</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Viswanathan Ramachandran (Indian Institute of
+                  Technology Bombay, India); Sibi Raj B Pillai (IIT
+                  Bombay, India); Vinod M Prabhakaran (Tata
+                  Institute of Fundamental Research, India)
+                </div>
+              </dd>
+              <dt>9:20 <span class="papertitle"><i>New Finite
+              Blocklength Converses for Asymmetric Multiple Access
+              Channels via Linear Programming</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sharu Jose and Ankur A. Kulkarni (Indian
+                  Institute of Technology Bombay, India)
+                </div>
+              </dd>
+              <dt>9:40 <span class="papertitle"><i>A Lower Bound on
+              Channel Capacity of a Nonlinear Fiber Optic Channel
+              with Memory</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Konchady Gautam Shenoy (Indian Institute of
+                  Science (IISC), India); Vinod Sharma (Indian
+                  Institute of Science, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556545">TH02: Topics in
+          Signal Processing</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Analysis of
+              Downsampling of DCT-Graphs</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Nileshkumar Vaishnav (Dhirubhai Ambani Institute
+                  Of Infromation And Technology, Gandhinagar,
+                  India); Aditya Tatu (DA-IICT, Gandhinagar, India)
+                </div>
+              </dd>
+              <dt>9:18 <span class="papertitle"><i>Improved
+              Noncoherent Receiver for Joint Range and Symbol
+              Estimation</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Sanjeev Sharma (Indian Institute of Technology,
+                  Indore, India); Abhijeet Bishnu (Indian Institute
+                  of Technology Indore, India); Anubha Gupta
+                  (Indraprastha Institute of Information Technology
+                  Delhi, India); Vimal Bhatia (Indian Institute of
+                  Technology Indore, India)
+                </div>
+              </dd>
+              <dt>9:37 <span class="papertitle"><i>Interference
+              Localization On-Board the Satellite Using Drift
+              Induced Virtual Array</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Aakash Arora (SnT, University of Luxembourg,
+                  Luxembourg); Sina Maleki (Ericsson, Luxembourg);
+                  Bhavani Shankar Mysore R (Interdisciplinary
+                  Centre for Security, Reliability and Trust &amp;
+                  University of Luxembourg, Luxembourg); Joel Grotz
+                  (SES, Luxembourg); Bj&ouml;rn Ottersten (University
+                  of Luxembourg, Luxembourg)
+                </div>
+              </dd>
+              <dt>9:56 <span class="papertitle"><i>Blind
+              Equalization for Classification of Digital
+              Modulations</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Gaurav Jyoti Phukan (IIT Guwahati &amp; Bharat
+                  Electronics Ltd, India); Prabin Kumar Bora
+                  (Indian Instituite of Technology, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556546">TH03: Machine
+          Learning/AI and Applications</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Distributed
+              Learning Algorithm for Interference Avoidance in
+              Coexisting WBANs</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Emy George (National Institute Of Technology,
+                  Calicut, India); Lillykutty Jacob (National
+                  Institute of Technology Calicut, India)
+                </div>
+              </dd>
+              <dt>9:18 <span class="papertitle"><i>Inference
+              Algorithms for the Multiplicative Mixture Mallows
+              Model</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ranjitha Prasad (Tata Consultancy Services,
+                  India); Vincent Y. F. Tan (National University of
+                  Singapore, Singapore)
+                </div>
+              </dd>
+              <dt>9:37 <span class="papertitle"><i>On a Class of
+              Restless Multi-armed Bandits with Deterministic
+              Policies</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Prakirt Raj Jhunjhunwala (Indian Institute of
+                  Technology, Bombay, India); Sharayu Moharir
+                  (Indian Institute of Technology Bombay, India);
+                  D. Manjunath (IIT Bombay, India); Aditya Gopalan
+                  (Indian Institute of Science, India)
+                </div>
+              </dd>
+              <dt>9:56 <span class="papertitle"><i>Automatic
+              Classification of Indian Languages into Tonal and
+              Non-tonal Categories Using Cascade Convolutional
+              Neural Network (CNN)-Long Short-Term Memory (LSTM)
+              Recurrent Neural Networks</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Chuya China Bhanja and Dipjyoti Bisharad
+                  (National Institute of Technology Silchar,
+                  India); Rabul Laskar (NIT SILCHAR, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+          <h4 class="sessiontitle" id="S1569556547">TH04:
+          Cooperative and Visible Light Communications</h4>
+          <div class="session">
+            <dl class="papers">
+              <dt>9:00 <span class="papertitle"><i>Partial CSI
+              Based Relay Selection for TWR-FSO over Unified
+              Exponentiated Weibull Links</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Deepti Agarwal (IGDTUW, India)
+                </div>
+              </dd>
+              <dt>9:18 <span class=
+              "papertitle"><i>Estimate-and-Forward Relaying in
+              Molecular Communication Using Brownian Motion with
+              Drift</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Satish Kumar Tiwari and Prabhat Kumar Upadhyay
+                  (Indian Institute of Technology Indore, India)
+                </div>
+              </dd>
+              <dt>9:37 <span class="papertitle"><i>Spectral- And
+              Energy-Efficiency for Massive MIMO Two-Way
+              Full-Duplex Hybrid Processing AF
+              Relay</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Ekant Sharma (Indian Institute of Technology,
+                  Kanpur, India); Rohit Budhiraja (IIT Kanpur,
+                  India); Ashish Kant Shukla (Indian Institute of
+                  Technology, India)
+                </div>
+              </dd>
+              <dt>9:56 <span class="papertitle"><i>On the Spatial
+              Performance of Users in Indoor VLC Networks with
+              Multiple Reflections</i></span></dt>
+              <dd>
+                <div class="authors">
+                  Abhishek K Gupta (Indian Institute of Technology
+                  Kanpur, India); Adrish Banerjee (Indian Institute
+                  of Technology, Kanpur, India)
+                </div>
+              </dd>
+            </dl>
+          </div>
+
+
+	
+
+
+
+
+<h4 class="sessiontime">Thursday, July 19, 11:45 -
+          13:30</h4>
+          <h4 class="sessiontitle" id="5G">SP.TH05:  5G and next generation networking</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>11.45 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Abhay">Fog and Software Defined Networking paradigms in 5th Generation Wireless Communication Networks</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Abhay Karandikar (IIT Kanpur)
+                </div>
+              </dd>
+              <dt>12:11 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Swades">RF energy transfer channel models for sustainable IoT </a> </i></span> <dd>
+                <div class="authors">
+                  Swades De   (IIT Delhi)
+                </div>
+              </dd>
+              
+
+	      <dt>12:37 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Kiran">5G New Radio-India's contribution to IMT-2020   </a></i></span></dt>
+              <dt><dd>
+                <div class="authors">
+                  Kiran Kuchi  (IIT Hyderabad )
+                </div>
+              </dd>
+
+
+
+	      <dt>1:03 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Shalabh">Towards low power terabit per second optical interconnects</a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Shalabh Gupta  (IIT Bombay)
+                </div>
+
+	<dd><h4 class="sessiontitle" id="Mmwave">SP.TH06: Mm-wave and THz systems</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+             <dt>11:45 <span class="papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Harish_Mmwave">Enabling the Third Wireless Revolution through Transformative RF/mmWave Circuits, Systems and Wireless Communication and Sensing Paradigms</a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                   Harish Krishnaswamy   (Columbia University, USA)
+                </div>
+              </dd>
+              <dt>12:11 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Bala">Non-Destructive Testing using THz imaging  </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                   Bala Pesala    (Central Electrical and Electronics Engineering Research Institute)
+                </div>
+              </dd>
+              
+
+	      <dt>12:37 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#PHRao">Periodic EM configurations and their applications for next generation Wireless systems. </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                 P.H. Rao    (SAMEER - Centre for Electromagnetics, Chennai)
+                </div>
+              </dd>
+
+
+
+	      <dt>1:03 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Goutam">Communication and Systems at Millimeter and Terahertz Waves </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  Goutam Chattopadhyay  (Jet Propulsion Laboratory, NASA, USA)
+                </div>
+              </dd> 
+
+
+
+<dd><h4 class="sessiontitle" id="Deep">SP.TH07: Deep learning</h4>
+          <div class="session">
+            <dl class="papers"></dl>
+              <dt>11:45 <span class="papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Phil">AMP-Inspired Deep Neural Networks, with Applications to Compressive Random Access and Massive-MIMO Channel Estimation</a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Phil Schniter    (The Ohio State University)
+                </div>
+              </dd>
+              <dt>12:11 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#Tareq">Random Matrix Theory Application on Regularized Discriminant Analysis </a> </i></span></dt>
+              <dd>
+                <div class="authors">
+                  Tareq Al Naffouri    (King Abdullah University of Science and Technology)
+                </div>
+              </dd>
+              
+
+	      <dt>12:37 <span class=
+              "papertitle"><i>TBD</i></span></dt>
+              <dd>
+                <div class="authors">
+                   Chandra Sekhar Seelamantula   (IISc Bangalore)
+                </div>
+              </dd>
+
+
+
+	      <dt>1:03 <span class=
+              "papertitle"><i><a href="http://ece.iisc.ernet.in/~spcom/2018/invited.html#David">Hidden Talents of the Variational Autoencoder </a></i></span></dt>
+              <dd>
+                <div class="authors">
+                  David Wipf  (Microsoft Research Beijing)
+                </div>
+              </dd>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+        </div>
+      </div>
+    </div><!-- end col-md-9 -->
+    <hr>
+    <!-- Footer -->
+    <footer>
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright © SPCOM 2018</p>
+        </div>
+      </div>
+    </footer>
+  </div><!-- /.container -->
+  <!-- jQuery -->
+  <script src=
+  "../bootstrap-3.3.5/modern-business/js/jquery.js"></script> 
+  <!-- Bootstrap Core JavaScript -->
+   
+  <script src=
+  "../bootstrap-3.3.5/dist/js/bootstrap.min.js"></script> 
+  <!-- Script to Activate the Carousel -->
+   
+  <script>
+
+
+
+
+
+                                          $('.carousel').carousel({
+                                          interval: 5000 //changes the speed
+                                          })
+  </script>
+</body>
+</html>

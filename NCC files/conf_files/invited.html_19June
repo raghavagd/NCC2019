@@ -1,0 +1,1674 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="SPCOM 2018 Website">
+    <meta name="author" content="Parimal Parag">
+    <link rel="icon" href="../IISc/ico/spcomlogo.ico">
+
+    <title>SPCOM 2018</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../bootstrap-3.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../bootstrap-3.3.5/modern-business/css/modern-business.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link href="../bootstrap-3.3.5/simple-sidebar/css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="../bootstrap-3.3.5/modern-business/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar">&nbsp;</span>
+                    <span class="icon-bar">&nbsp;</span>
+                    <span class="icon-bar">&nbsp;</span>
+                </button>
+                <a class="navbar-brand" href="index.html">SPCOM</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="committees.html">COMMITTEES</a></li>
+                    <!--li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="about.html">ABOUT SPCOM</a></li>
+                            <li><a href="committees.html">COMMITTEES</a></li>
+                        </ul>
+                    </li-->
+                                <li><a href="register.html">REGISTRATION</a></li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">AUTHORS<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="submission.html">PAPER SUBMISSION</a></li>
+                            <li><a href="award.html">STUDENT PAPER AWARD</a></li>
+                            <li><a href="instructions.html">INSTRUCTIONS FOR PRESENTERS</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">PROGRAM<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="dates.html">IMPORTANT DATES</a></li>
+                            <li><a href="program.html">TECHNICAL PROGRAM</a></li>
+                            <li><a href="plenary.html">PLENARY SPEAKERS</a></li>
+                            <li><a href="invited.html">INVITED SPEAKERS</a></li>
+                            <li><a href="tutorials.html">TUTORIALS</a></li>
+                            <li><a href="venue.html">CONFERENCE VENUE</a></li>
+                            <li><a href="social.html">SOCIAL PROGRAM</a></li>
+                             
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">TRAVEL & ACCOMMODATION<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="acco.html">ACCOMMODATION</a></li>
+                            <li><a href="visa.html">VISA INFORMATION</a></li>
+                            
+                            <li><a href="map.html">HOW TO REACH IISC</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">USEFUL LINKS<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="map.html">HOW TO REACH IISC</a></li>
+                            <li><a href="tours.html">TOURS & EXCURSIONS</a></li>
+                            <li><a href="others.html">OTHER LINKS</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="contact.html">CONTACT US</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- SPCOM 2016 Banner-->
+        <!-- Image Header -->
+        <header class="header-image">
+                <img class="img-responsive" src="../IISc/img/spcom2018Web.jpg" alt="SPCOM2018">
+        </header>
+        <!-- /.row -->
+	
+    <!-- Header Carousel -->
+    <!--header id="myCarousel" class="carousel slide"-->
+        <!-- Indicators -->
+        <!--ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol-->
+
+        <!-- Wrapper for slides -->
+        <!--div class="carousel-inner">
+            <div class="item active">
+                <div class="fill" style="background-image:url('https://placehold.it/1900x1080&text=Slide One');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 1</h2>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('https://placehold.it/1900x1080&text=Slide Two');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 2</h2>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('https://placehold.it/1900x1080&text=Slide Three');"></div>
+                <div class="carousel-caption">
+                    <h2>Caption 3</h2>
+                </div>
+            </div>
+        </div-->
+
+        <!-- Controls -->
+        <!--a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header-->
+
+    <!-- Page Content -->
+    <div class="container">
+
+       <!-- Marketing Icons Section -->
+        <div class="row">
+
+
+            <!--div class="col-lg-12">
+                <h1 class="page-header">
+                    Welcome to SPCOM 2018!
+                </h1>
+            </div-->
+           
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Welcome to SPCOM 2018!
+                    <small></small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="index.html">SPCOM</a>
+                    </li>
+                    <li class="active">INVITED SPEAKERS</li>
+                </ol>
+            </div>
+        </div>
+        <!-- /.row -->
+ 
+	    <div class="col-md-3">
+                <!--p class="lead">Shop Name</p-->
+		<div class="panel panel-default">
+		<div class="panel-heading active"><h4 class="panel-title"><a href="#">SPCOM</a></h4></div>
+                <div class="list-group">
+                    <!--a href="#" class="list-group-item active">HOME</a-->
+                    <a href="register.html" class="list-group-item">REGISTRATION</a>
+                    <a href="feedback.html" class="list-group-item">FEEDBACK</a>
+                </div>
+		</div>
+		<div class="panel panel-primary">
+            	    <div class="panel-heading">
+                	<h4 class="panel-title">IMPORTANT DATES</h4>
+                    </div>
+                    <div class="panel-body">
+ <strong>Full Paper submission:</strong><br> Monday, January 30, 2018 (Firm deadline) <br>
+                        <strong>Decision notification:</strong><br> Wednesday, April 11, 2018<br>
+                        <strong>Camera-ready submission:</strong><br> Wednesday, May 09, 2018
+	            </div>
+                </div>
+		<div class="panel panel-primary">
+            	    <div class="panel-heading">
+                	<h4 class="panel-title">TECHNICAL CO-SPONSORS</h4>
+                    </div>
+                    <div class="panel-body">
+			<img class="img-responsive" width="230" alt="IEEE" src="img/IEEE_logo.jpg">
+			<img class="img-responsive" width="230" alt="IEEE Signal Processing Society" src="img/sp_society_logo.jpg">
+	            </div>
+                </div>
+            </div>
+            
+            <div class="col-md-9">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <!--h4><i class="fa fa-fw fa-check"></i>Message from the General Co-Chairs</h4-->
+			<h3 class="panel-title">INVITED SPEAKERS</h3>
+                    </div>
+                    <div class="panel-body">
+                        <!--a href="#" class="btn btn-default">Learn More</a-->
+<!--                QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+
+
+<!-- <iframe src="img/tutorial_timetable.pdf" width="500" height="375" type='application/pdf'>  -->
+
+
+<!--<hr />-->
+
+<!--<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "1100px" width = "900px" src="img/TT.png" class="img-responsive" alt="TT" /></p> -->
+<!--QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Table cropped-->
+<table class="table table-striped">
+
+<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+<table class="table table-striped">
+
+<table border="1"> 
+
+<table frame="box">
+
+<table style="height: 1246px; width: 800px;" width="750" cellspacing="0" cellpadding="2">
+<tbody>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#cccccc" width="117">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Time and location</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#cccccc" width="148">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Main Auditorium</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#cccccc" width="141">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Hall A</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#cccccc" width="127">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Hall B</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#cccccc" width="130">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Hall C</strong></span></span></p>
+</td>
+</tr>
+<tr style="height: 64px;">
+<td style="padding: 0.1in; width: 130px; height: 64px;" bgcolor="#b7b7b7" width="117">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>17/7/2018, Tuesday, 16:00 - 17:45 hrs</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 64px;" bgcolor="#e8e8e8" width="148">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Full duplex and LPWAN</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 64px;" bgcolor="#e8e8e8" width="141">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Caching in cellular networks</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 64px;" bgcolor="#e8e8e8" width="127">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Computational Imaging</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 64px;" bgcolor="#e8e8e8" width="130">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Estimation and information theory</strong></span></span></p>
+</td>
+</tr>
+<tr style="height: 64px;">
+<td style="padding: 0.1in; width: 130px; height: 64px;" bgcolor="#b7b7b7" width="117">
+<p><span style="font-size: small;"><em>Session organiser</em></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 64px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Himal Suraweera / Rajesh Sundaresan</em></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 64px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Vinod Sharma / P Vijay Kumar</em></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 64px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Chandra Sekhar Seelamantula</em></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 64px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Himanshu Tyagi</em></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Rohit">Rohit Budhiraja</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Nikhil">Nikhil Karamchandani</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Jacob">Mathews Jacob</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Shun">Shun Watanabe</a></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Dinesh">Dinesh Bharadia</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Suhas">Suhas Diggavi</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Kaushik">Kaushik Mitra</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Salim">Salim El Rouayheb</a></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Ganesan">Ganesan Thiagarajan</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Aditya">Aditya Ramamoorthy</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Adithya">Adithya Pediredla</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Tara">Tara Javidi</a></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Jean">Jean-Francois Chamberland-Tremblay</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Bharath">Bharath Bettagere</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Kedar">Kedar Khare</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Prakash">Prakash Narayan</a></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 82px;">
+<td style="padding: 0.1in; width: 130px; height: 82px;" bgcolor="#b7b7b7" width="117">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>18/7/2018, Wednesday, 15:45 - 17:30 hrs</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 82px;" bgcolor="#e8e8e8" width="148">
+<p><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><strong>Full-duplex communications</strong></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 82px;" bgcolor="#e8e8e8" width="141">
+<p><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><strong>Speech Processing</strong></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 82px;" bgcolor="#e8e8e8" width="127">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>Security and privacy</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 82px;" bgcolor="#e8e8e8" width="130">
+<p><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><strong>Quantum information technology</strong></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 64px;">
+<td style="padding: 0.1in; width: 130px; height: 64px;" bgcolor="#b7b7b7" width="117">
+<p><span style="font-size: small;"><em>Session organiser</em></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 64px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Himal Suraweera</em></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 64px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Chandra Sekhar Seelamantula</em></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 64px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Himanshu Tyagi</em></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 64px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Varun Raghunathan</em></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Taneli">Taneli Riihonen</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;">V. Ramasubramanian</span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Siddharth">Siddharth Garg</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;">Apoorva Patel</span></span></span></p>
+</td>
+</tr>
+<tr style="height: 64px;">
+<td style="padding: 0.1in; width: 130px; height: 64px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 64px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Harish_Full">Harish Krishnaswamy</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 64px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;">Chandra Sekhar Seelamantula</span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 64px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Vyas">Vyas Sekar</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 64px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Anand">Anand Kumar Jha</a></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Radhakrishna">Radhakrishna Ganti</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;">Prasanta Kumar Ghosh</span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Sandeep">Sandeep Shukla</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Rahul">Rahul Jain</a></span></span></span></p>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="padding: 0.1in; width: 130px; height: 110px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 110px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Andreas">Andreas Burg</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 110px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;">Sriram Ganapathy</span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 110px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Alexander">Alexander Barg</a></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 110px;" bgcolor="#e8e8e8" width="130">
+<p style="margin-bottom: 0.1in; font-weight: normal;">&nbsp;</p>
+<p style="margin-bottom: 0.1in; font-weight: normal;"><a name="divtagdefaultwrapper"></a> <span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><span style="background: #e8e8e8;"><a href="#Prabha">Prabha Mandayam</a></span></span></span></span></p>
+<p style="font-weight: normal;">&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 82px;">
+<td style="padding: 0.1in; width: 130px; height: 82px;" bgcolor="#b7b7b7" width="117">
+<p><span style="font-family: Arial;"><span style="font-size: small;"><strong>19/7/2018, Thursday, 11:45 - 13:30 hrs</strong></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 82px;" bgcolor="#e8e8e8" width="148">
+<p><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><strong>5G and next generation networking</strong></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 82px;" bgcolor="#e8e8e8" width="141">
+<p><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><strong>Mm-wave and THz systems</strong></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 82px;" bgcolor="#e8e8e8" width="127">
+<p><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><strong>Deep learning</strong></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 82px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 64px;">
+<td style="padding: 0.1in; width: 130px; height: 64px;" bgcolor="#b7b7b7" width="117">
+<p><span style="font-size: small;"><em>Session organiser</em></span></p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 64px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Rajesh Sundaresan</em></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 64px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>K J Vinoy</em></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 64px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><em>Chandra Murthy / David Wipf</em></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 64px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Abhay">Abhay Karandikar</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Harish_Mmwave">Harish Krishnaswamy</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Phil">Philip Schniter</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 46px;">
+<td style="padding: 0.1in; width: 130px; height: 46px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 46px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Swades">Swades De</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 46px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Bala">Bala Pesala</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 46px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Tareq">Tareq Al Naffouri</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 46px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 82px;">
+<td style="padding: 0.1in; width: 130px; height: 82px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 82px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Kiran">Kiran Kuchi</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 82px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#PHRao">P H Rao</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 82px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;">Chandra Sekhar Seelamantula</span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 82px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 64px;">
+<td style="padding: 0.1in; width: 130px; height: 64px;" bgcolor="#b7b7b7" width="117">
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.1in; width: 127px; height: 64px;" bgcolor="#e8e8e8" width="148">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Shalabh">Shalabh Gupta</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 164px; height: 64px;" bgcolor="#e8e8e8" width="141">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#Goutam">Goutam Chathopadhyay</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 133px; height: 64px;" bgcolor="#e8e8e8" width="127">
+<p style="font-weight: normal;"><span style="color: #000000;"><span style="font-family: Arial;"><span style="font-size: small;"><a href="#David">David Wipf</a></span></span></span></p>
+</td>
+<td style="padding: 0.1in; width: 163px; height: 64px;" bgcolor="#e8e8e8" width="130">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ  -->
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Phil.jpeg" class="img-responsive" alt="Phil Schniter" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Phil Schniter"><strong> <h4 id="Phil">Title: AMP-Inspired Deep Neural Networks, with Applications to Compressive Random Access and Massive-MIMO Channel Estimation</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www2.ece.ohio-state.edu/~schniter/" target="_blank">Phil Schniter</a></p>
+        <p>Professor</p>
+        <p>Dept. of Electrical and Computer Engineering, The Ohio State University</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Deep learning has gained great popularity due to its widespread success on many inference problems.  In this talk, we consider the application of deep learning to the sparse linear inverse problem, where one seeks to recover a sparse signal from a few noisy linear measurements. For this problem, we present two neural-network architectures that decouple prediction errors across layers in the same way that the approximate message passing (AMP) algorithms decouple them across iterations: through Onsager correction. First, we present a "learned AMP" network that significantly improves upon Gregor and LeCun's "learned ISTA." Second, inspired by the recently proposed "vector AMP" (VAMP) algorithm, we propose a "learned VAMP" network that offers increased robustness to deviations in the measurement matrix from i.i.d. Gaussian. In both cases, we jointly learn the linear transforms and scalar nonlinearities of the network. Interestingly, with i.i.d. signals, the linear transforms and scalar nonlinearities prescribed by the VAMP algorithm coincide with the values learned through back-propagation, leading to an intuitive interpretation of learned VAMP. Finally, we apply our methods to two important problems in 5G wireless communications: compressive random access and massive-MIMO channel estimation.
+
+
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Vyas.jpeg" class="img-responsive" alt="Vyas Sekar" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Vyas Sekar"><strong> <h4 id="Vyas">Title: Software-defined security for next generation networks</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://users.ece.cmu.edu/~vsekar/" target="_blank">Vyas Sekar</a></p>
+        <p>Associate Professor</p>
+        <p>ECE Department, Carnegie Mellon University</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+The state of network security today is quite abysmal. Security breaches and downtime of critical infrastructures continue to be the norm rather than the exception, despite the dramatic rise in spending on network security. Attackers today can easily leverage a distributed and programmable infrastructure of compromised machines (or botnets) to launch large-scale and sophisticated attacks. In contrast, the defenders of our critical infrastructures are crippled as they rely on fixed capacity, inflexible, and expensive hardware appliances. This forces them into adopting weak and static security postures, as they face unpleasant tradeoffs between false positives and false negatives. Continuing along this trajectory means that attackers will always hold the upper hand as defenders are stifled by the inflexible and impotent tools in their arsenal. The goal of this project is to reverse this long-standing asymmetry and fundamentally change the dynamics of this attack- defense equation. Instead of developing attack-specific defenses, we focus on empowering defenders with the right tools and abstractions to tackle the constantly evolving attack landscape. To this end, we envision a new software-defined approach to network security, where we can rapidly develop and deploy novel in-depth defenses and dynamically customize the network’s security posture to the current operating context. Realizing this vision raises fundamental challenges that transcend conventional networking and security technologies and necessitates a radical rethink across the entire “stack”.
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Bharath.jpeg" class="img-responsive" alt="Bharath N. Bettagere" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Bharath N. Bettagere"><strong> <h4 id="Bharath">Title: Caching in Cellular Networks: A Learning Theoretic Perspective</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://bharathbettagerenagaraja.wordpress.com/" target="_blank">Bharath N. Bettagere</a></p>
+        <p>Assistant Professor</p>
+        <p>EE Department, IIT Dharwad</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Caching in cellular network is a promising technique to enhance the performance of 5G and beyond wireless systems. Higher performance is achieved by having faster access to the reqeusted information/files through caching of "popular files" in the memories of the Base Stations (BSs), Small BSs (SBSs) and even users. Regardless of the mechanism used to cache the files, the knowledge of the popularity of the files is essential. My talk focuses on a framework to analyze the performance of caching mechanism in a cellular network with non-stationary and possibly correlated requests for the files. Towards the end of the talk, I will touch upon the use of recommendation mechanism to enhance the performance of caching in future wireless cellular systems. 
+
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Taneli.jpeg" class="img-responsive" alt="Taneli Riihonen" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Taneli Riihonen"><strong> <h4 id="Taneli">Title: Self-interference Modeling and Digital Cancellation Along with Full-Duplex Wireless System Analysis</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.iki.fi/taneli.riihonen" target="_blank">Taneli Riihonen</a></p>
+        <p>Assistant Professor(tenure track)</p>
+        <p>Tampere University of Technology</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+My presentation highlights recent contributions on the inband full-duplex (IBFD) technology by providing an overview of the related research carried out at Tampere University of Technology, Finland, thus far. In particular, we have considered the challenges caused by the own transmitter, which is now a powerful source of self-interference, while also studying a potential system-level application of the IBFD technology. The former issue was analyzed by presenting advanced signal models for canceling the SI in the digital domain of the receiver. The signal models were derived such that they take into account the most significant analog impairments. As for the system-level application, we proposed a self-backhauling IBFD-capable access node that can serve users and backhaul data using the same frequency resources at the same time. This reduces transmit power consumption over reference schemes that rely on half-duplex operation. Altogether, the findings reported in Dani Korpi's doctoral dissertation (Dec. 2017) and highlighted herein demonstrate that the IBFD technology can significantly enhance the spectrum usage of the future wireless networks.
+
+
+<hr/>
+
+ <p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Andreas.jpeg" class="img-responsive" alt="Andreas Burg" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Andreas Burg"><strong> <h4 id="Andreas">Title: Full-Duplex Communication with Imperfect Self-Interference Cancellation</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://people.epfl.ch/cgi-bin/people?id=194090&op=bio&lang=fr&cvlang=en" target="_blank">Andreas Burg</a></p>
+        <p>Assistant Professor</p>
+        <p>École Polytechnique Fédérale de Lausanne</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>  
+
+Full-Duplex communication promises a 2x increase in communication capacity   under ideal condition. Unfortunately, this requires perfect suppression of the
+strong self-interference (SI) which is very difficult to achieve. Luckily, there are   several alternatives, where full-duplex capability can be exploited even with
+imperfect SI suppression. In this talk, we will first summarize our work on   SI suppression and point out the limitations. We will then focus on discussing
+options to exploit full-duplex capability with residual SI. 
+
+
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Radhakrishna.jpeg" class="img-responsive" alt="Radhakrishna Ganti" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Radhakrishna Ganti"><strong> <h4 id="Radhakrishna">Title: Performance of LTE and 5G-NR cellular networks with full-duplex nodes</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ee.iitm.ac.in/~rganti/" target="_blank">Radhakrishna Ganti</a></p>
+        <p>Assistant Professor</p>
+        <p>IIT Madras</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Full-duplex nodes theoretically double the achievable per-link data rate. In this talk, we look at how full-duplex nodes fit in the existing wireless standards and if their impact on the network throughput. Current cellular standards are not designed for enabling full-duplex wireless communications. For example, in LTE, the eNodeB and all the UEs in a cell  have to follow the same TDD configuration, and this makes full-duplex in-feasible. We will look at techniques to enable FD in the framework of existing 4G standard and look at network implications of FD.  The current release of 5G standard does not have direct support for FD. However, it has several features like flexible-duplexing which might enable FD in the future releases. We will touch upon these features and discuss the gains of using FD in these networks.
+
+
+
+
+<hr/>
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Swades.jpeg" class="img-responsive" alt="Swades De" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Swades De"><strong> <h4 id="Swades">Title: RF energy transfer channel models for sustainable IoT</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://web.iitd.ac.in/~swadesd/" target="_blank">Swades De</a></p>
+        <p>Professor</p>
+	<p>Department of Electrical Engineering</p>
+        <p>IIT Delhi</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Self-sustainable IoT node operation can be realized with the help of controlled radio frequency energy transfer (RF-ET). However due to significant energy loss in wireless propagation, there is a need for novel schemes to improve the end-to-end RF-ET efficiency. In this presentation, we will first discuss our experimental demonstration and findings on multihop RF-ET, where we will also motivate the need for developing a channel model for accurately characterizing the harvested DC power. We will present a new channel model which incorporates the effects of non-line of sight (NLOS) component along with the other parameters, namely, radiation pattern of transmit and receive antennas, losses associated with different polarization of transmitting field, and efficiency of power harvester circuit. We will present an optimization problem formulation by accounting for the effect of NLOS component to maximize the RF-ET efficiency, which cannot be captured by the Friis formula. Finally, we will discuss our field measurements based findings on the statistical parameters of multipath fading channel for short-range RF-RT.
+
+
+
+
+<hr/>
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Kiran.jpeg" class="img-responsive" alt="Kiran Kuchi" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Kiran Kuchi"><strong> <h4 id="Kiran">Title: 5G New Radio-India's contribution to IMT-2020</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://sites.google.com/a/iith.ac.in/kkuchi/" target="_blank">Kiran Kuchi</a></p>
+        <p>Professor</p>
+        <p>Department of Electrical Engineering</p>
+        <p>IIT Hyderabad</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+<p>
+In this talk, I bring to light the key technical features and performance aspects of the recently released 5G technical specification, that is popularly known as, 5G New Radio (NR). We highlight the main differences with respect to 4G LTE, targeted deployment scenarios, new use cases etc. I will talk about enhanced mobile broadband (eMBB) with multi-Gbit user rates and the emerging Narrowband IoT (NB-IoT) networks that target ultra-low data rates with long-battery life that is on the order of 5-10 years. 
+</p>
+<p>
+Historically, India has not contributed to 3GPP family of standards till 5G. The scenario has changed about 3 years ago with the emergence of TSDSI - India's telecom SDO. Indian members of 3GPP, comprising of both academia and industry including a prominent operator have made significant technical contributions to the Phase-1 of 5G NR standard. 
+</p>
+<p>
+A new activity is kick started in TSDSI to amend the 3GPP 5G NR technical specifications. The aim is to introduce new features that are tailored for Indian market needs and domestic use cases such as support for large rural cells, a mandatory requirement set forth by ITU-R WP 5D as part of IMT2020 test criterion.
+</p>
+<p>
+In this talk, we will introduce a new waveform titled "pi/2 BPSK with spectrum shaping" that is introduced in the uplink of 5G NR. This waveform potentially doubles the transmit power by allowing handsets to transmit the signal near PA (power amplifier) saturation. This is the only new waveform adopted in 5G which is targeted for coverage expansion. Our other proposals include the use of a non-linear precoding technique for massive MIMO, especially for TDD bands where we exploit channel reciprocity to obtain massive spectral efficiency gains over LTE based MIMO. I will conclude the talk with a description of a massive MIMO testbed developed by our group at IIT Hyderabad and the recent field trail results. 
+</p>
+
+
+<hr/>
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Rohit.jpeg" class="img-responsive" alt="Rohit Budhiraja" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Rohit Budhiraja"><strong> <h4 id="Rohit">Title: QoS-Constrained Energy-Efficient AF Two-Way Full-Duplex Relaying With Massive Antennas</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://home.iitk.ac.in/~rohitbr/" target="_blank">Rohit Budhiraja</a></p>
+        <p>Assistant Professor</p>
+        <p>Department of Electrical Engineering</p>
+        <p>IIT Kanpur</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+We consider a system where multiple full-duplex (FD) user pairs exchange information via a shared FD massive multiple-input multiple-output (MIMO) two-way relay. Most
+of the existing massive MIMO relaying works maximize the spectral efficiency. We maximize the global energy efficiency (EE) with quality-of-service (QoS) constraints, expressed as the rate required by the users. The EE maximization for the system considered herein has a non-convex objective. We solve this problem by first approximating the objective, which can be shown to be a concave-convex fractional function, and later by using Dinkelbach’s method.
+
+
+
+<hr/>
+
+
+
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Nikhil.jpeg" class="img-responsive" alt="Nikhil Karamchandani" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Nikhil Karamchandani"><strong> <h4 id="Nikhil">Title: Content Caching and Delivery with Partial Adaptive Matching</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://sites.google.com/site/nikhilkaram/" target="_blank">Nikhil Karamchandani </a></p>
+        <p>Assistant Professor</p>
+        <p>Department of Electrical Engineering</p>
+        <p>IIT Bombay</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Caching of popular content during off-peak hours is a strategy to reduce the network load during peak hours. We consider a model where multiple caches store pre-fetched content and when users request files, they are
+matched to caches based on the request pattern. In particular, we focus on the case where caches are divided into clusters
+and each user can only be assigned to a unique cache from a specific cluster. This is a generalization of two popular models
+which are the extremes of the proposed model: one where each user is pre-attached to a cache irrespective of what it demands
+(static matching, popularly known as `coded caching') and the other where each user can be assigned to any cache in the entire network (fully adaptive matching). We show that neither the coded delivery strategy (approximately optimal when the user-cache assignment is pre-fixed) nor the uncoded replication strategy (approximately optimal when all caches belong to a single cluster) is sufficient for all memory regimes. We propose a hybrid solution that combines ideas from both schemes and that performs strictly better than both. Finally, we show that this hybrid strategy is approximately optimal in several scenarios and also discuss some of the open questions.
+
+
+
+<hr/>
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Aditya.jpeg" class="img-responsive" alt="Aditya Ramamoorthy" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Aditya Ramamoorthy"><strong> <h4 id="Aditya">Title: Coded Caching Schemes with Reduced Subpacketization from Linear Block Codes
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ece.iastate.edu/adityar/" target="_blank">Aditya Ramamoorthy </a></p>
+        <p>Professor</p>
+        <p>Department of Electrical and Computer Engineering and Mathematics</p>
+        <p>Iowa State University</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+Coded caching is a technique that generalizes conventional
+
+caching and promises significant reductions in traffic
+
+over caching networks. However, the basic coded caching scheme
+
+requires that each file hosted in the server be partitioned into a large number (i.e., the subpacketization level) of non-overlapping subfiles. From a practical perspective, this is problematic as it means that prior schemes are only applicable when the size of the files is extremely large. In this work, we propose coded caching schemes based on combinatorial structures called resolvable designs. These structures can be obtained in a natural manner from linear block codes whose generator matrices possess certain rank properties. We obtain several schemes with subpacketization levels substantially lower than the basic scheme at the cost of an increased rate. Depending on the system parameters, our approach allows us to operate at various points on the subpacketization level vs. rate tradeoff.
+
+
+
+Joint work with Li Tang (Iowa State Univ.).
+
+
+
+<hr/>
+
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Abhay.jpeg" class="img-responsive" alt="Abhay Karandikar" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Abhay Karandikar"><strong> <h4 id="Abhay">Title: Fog and Software Defined Networking paradigms in 5th Generation Wireless Communication Networks
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://www.ee.iitb.ac.in/~karandi/" target="_blank">Abhay Karandikar </a></p>
+        <p>Director</p>
+        <p>IIT Kanpur</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+The communication networks are undergoing profound changes due to many recent architectural innovations. Two of these innovative technologies, namely the Software Defined Networking (SDN) and Fog Computing have the potential to bring about paradigmatic/fundamental changes to the wireless communication network architecture and how services are delivered over them. In this talk, we elaborate on the architectural changes, these technologies are expected to bring about in 5th generation wireless communication networks (5G) and also explain how these technologies would complement each other in providing newer services to mobile users in future, which may not be possible today. 
+
+
+<hr/>
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Jean.jpeg" class="img-responsive" alt="Jean-Francois Chamberland-Tremblay" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Jean-Francois Chamberland-Tremblay"><strong> <h4 id="Jean">Title: Compressed Sensing Based Uncoordinated and Unsourced Multiple Access
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ece.tamu.edu/~chmbrlnd/" target="_blank">Jean-Francois Chamberland-Tremblay</a></p>
+        <p>Professor</p>
+        <p>Department of Electrical and Computer Engineering</p>
+        <p>Texas A&M University</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+We will first review some connections between multiple access in wireless networks and compressed sensing. Then, we present a novel divide-and-conquer compressive sensing (CS) based approach for the uncoordinated and unsourced random access problem introduced by Polyanskiy. In the proposed scheme, each user's data is first encoded using an outer linear block code and the outer codewords are split into several sub-blocks. Each sub-block is encoded using a compressed sensing based encoder. At the receiver, the sub-blocks are decoded using compressed sensing decoder and their outputs are combined together using a low-complexity tree based algorithm. The proposed scheme outperforms existing practical coding schemes in the literature and is only approximately 4.3~dB away from the Polyanskiy's achievability scheme using a random Gaussian codebook. We will also present some results on the trade-off between complexity and gap from capacity for this scheme (Vamsi Amalladinne, Krishna Narayanan and Jean-Francois Chamberland). 
+
+
+
+
+
+<hr/>
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Shalabh.jpeg" class="img-responsive" alt="Shalabh Gupta" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Shalabh Gupta"><strong> <h4 id="Shalabh">Title: Towards low power terabit per second optical interconnects
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://www.ee.iitb.ac.in/wiki/faculty/shalabh" target="_blank">Shalabh Gupta </a></p>
+        <p>Associate Professor</p>
+        <p>Department of Electrical Engineering</p>
+        <p>IIT Bombay</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+With rapid growth in the use of cloud based applications and the Internet, the carbon footprint of data centers is becoming a major concern. The data centers are becoming more communications centric, and their switch interface speeds are expected to reach 1.6 terabit/second in near future. To keep up with power consumption budget, reliability and form factor requirements, the use of optical coherent techniques for future data center interconnects is being proposed. However, coherent links have traditionally used high-speed ADCs (analog-to-digital converters) followed by DSP (digital signal processing) for recovering transmitted data, which consumes a lot of power. To significantly reduce power consumption, the all analog domain signal processing approach, first proposed by our group, is now under serious consideration for such applications. In this work, we present an overview of the technologies being used for data center interconnects and the future trends (including the analog-domain signal processing approach). We also show how the use of silicon photonics can help further in achieving low power high-speed data center interconnects. 
+
+
+
+
+<hr/> 
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Anand.jpeg" class="img-responsive" alt="Anand Kumar Jha" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Anand Kumar Jha
+"><strong> <h4 id="Anand">Title:  Efficient measurement of high-dimensional quantum states
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://home.iitk.ac.in/~akjha/Welcome.htm" target="_blank">Anand Kumar Jha </a></p>
+        <p>Assistant Professor</p>
+        <p>Department of Physics</p>
+        <p>IIT Kanpur</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+ 
+
+
+
+
+
+
+The fact that a photon in a light beam can carry orbital angular momentum (OAM) in the integer multiples of ℏ has made OAM a very important degree of freedom for quantum information protocols. However, one of the major challenges faced in the implementation of OAM-based high-dimensional protocols is the efficient detection of quantum states in the OAM basis. In this talk, we will describe the existing techniques for measuring quantum states in the OAM basis and also discuss their limitations. We will then present a new experimental technique that we have developed in order to efficiently measure high-dimensional quantum states through just two intensity measurements.
+
+
+
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Alexander.jpeg" class="img-responsive" alt="Alexander Barg" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Alexander Barg
+"><strong> <h4 id="Alexander">Title:  Estimation of discrete distributions under local differential privacy
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ece.umd.edu/~abarg/" target="_blank">Alexander Barg </a></p>
+        <p>Professor</p>
+        <p>Department of ECE/ISR</p>
+        <p>University of Maryland</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+
+
+We consider minimax estimation of a discrete distribution under privacy constraints. A privatization scheme is applied to each raw sample independently, and the problem is to estimate the distribution of the raw samples from the privatized samples. Previous works were devoted to the high-privacy and low-privacy regimes. We propose a new family of privatization schemes and estimators that cover the entire range of parameters and improve upon the known schemes in the medium-privacy case. We prove that our procedure is asymptotically optimal for the ell-2 estimation loss and order-optimal for the ell-1 loss. Joint works with Min Ye (UMD/Princeton).
+
+
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Siddharth.jpeg" class="img-responsive" alt="Siddharth Garg" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Siddharth Garg
+"><strong> <h4 id="Siddharth">Title:  Backdoored Neural Networks (BadNets)
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.engineering.nyu.edu/faculty/siddharth-garg" target="_blank">Siddharth Garg </a></p>
+        <p>Assistant Professor</p>
+        <p>Department of Electrical and Computer Engineering</p>
+        <p>NYU</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+ 
+
+
+Deep neural networks are typically computationally expensive to train, requiring weeks of computation on many GPUs; as a result, many users outsource the training procedure to the cloud or rely on pre-trained models that are then fine-tuned for a specific task. The first part of this talk we will highlight how outsourced training introduces new security risks: an adversary can create a maliciously trained network (a backdoored neural network, or a BadNet) that has state-of-the-art performance on the user’s training and validation samples, but behaves badly on specific attacker-chosen inputs. We demonstrate backdoors on a U.S. street sign classifier that identifies stop signs as speed limits when a special sticker is added to the stop sign; the backdoor persists even if the network is later retrained for another task. The second part will discuss potential solutions for high-assurance outsourced training and execution of deep neural networks. Specifically, I will describe how secure delegation of computation techniques can be brought to bear on this problem.
+
+<hr/>
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Prakash.jpeg" class="img-responsive" alt="Prakash Narayan" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Prakash Narayan
+"><strong> <h4 id="Prakash">Title: Data Privacy for a $\rho$-Recoverable Function
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ece.umd.edu/~prakash/" target="_blank">Prakash Narayan </a></p>
+        <p>Professor</p>
+        <p>Department of Electrical and Computer Engineering/Institute for Systems Research</p>
+        <p>University of Maryland</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+
+
+This talk is based on joint work with Ph.D. student Ajaykrishnan Nageswaran.
+A user's data is represented by a finite-valued random variable.
+Given a function of the data, a querier is required to recover,
+with at least a prescribed probability, the value of the function
+based on a query response provided by the user. The user devises
+the query response, subject to the recoverability requirement,
+so as to maximize privacy of the data from the querier.
+Privacy is measured by the probability of error incurred
+by the querier in estimating the data from the query response.
+We analyze single and multiple independent query responses,
+with each response satisfying the recoverability requirement,
+that provide maximum privacy to the user. Achievability schemes
+with explicit randomization mechanisms for query responses are given
+and their privacy compared with converse upper bounds.
+
+
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Salim.jpeg" class="img-responsive" alt="Salim El Rouayheb" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Salim El Rouayheb
+"><strong> <h4 id="Salim">Title: Secret Sharing for Secure and Private Distributed Coded Computation
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://eceweb1.rutgers.edu/~csi/" target="_blank">Salim El Rouayheb </a></p>
+        <p>Assistant Professor</p>
+        <p>Department of Electrical and Computer Engineering</p>
+        <p>Rutgers University</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+
+
+I will describe the communication efficient secret sharing (CESS) problem and introduce explicit constructions of CESS schemes, called Staircase Codes, which achieve optimal communication and read costs. 
+Then, I will describe an application of Staircase codes to minimizing latency against stragglers in secure distributed coded computations. Time permitting, I will also talk about Staircase codes for constructing universally-robust private information retrieval schemes. This is a joint work with Rawad Bitar and Parimal Parag.
+ 
+
+    
+<hr/>
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/David.jpeg" class="img-responsive" alt="David Wipf" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="David Wipf
+"><strong> <h4 id="David">Title:  Hidden Talents of the Variational Autoencoder
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.davidwipf.com/" target="_blank">David Wipf </a></p>
+        <p>Lead Researcher</p>
+        <p> Visual Computing Group</p>
+        <p>Microsoft Research Beijing</p> 
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+ 
+
+
+
+
+Variational autoencoders (VAE) represent a popular, flexible form of
+deep generative model that can be stochastically fit to samples from a
+given random process using an information-theoretic variational bound
+on the true underlying distribution.  Once so-obtained, the model can
+be putatively used to generate new samples from this distribution, or
+to provide a low-dimensional latent representation of existing
+samples.  While quite effective in numerous application domains,
+certain important mechanisms which govern the behavior of the VAE are
+obfuscated by the intractable integrals and resulting stochastic
+approximations involved.  Moreover, as a highly non-convex model, it
+remains unclear exactly how minima of the underlying energy relate to
+original design purposes.  We attempt to better quantify these issues
+by analyzing a series of tractable special cases of increasing
+complexity.  In doing so, we unveil interesting connections with more
+traditional  dimensionality reduction models, as well as an intrinsic
+yet underappreciated propensity for robustly dismissing sparse
+outliers when estimating latent manifolds.  With respect to the
+latter, we demonstrate that the VAE can be viewed as the natural
+evolution of recent robust PCA models, capable of learning nonlinear
+manifolds of unknown dimension obscured by gross corruptions.
+
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Tareq.jpeg" class="img-responsive" alt=" Tareq Al Naffouri" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Tareq Al Naffouri
+"><strong> <h4 id="Tareq">Title:  Random Matrix Theory Application on Regularized Discriminant Analysis
+
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://www.kaust.edu.sa/en/study/faculty/tareq-alnaffouri" target="_blank"> Tareq Al Naffouri </a></p>
+        <p>Associate Professor</p>
+        <p> Electrical Engineering</p>
+        <p>King Abdullah University of Science and Technology</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+ 
+
+
+
+We conduct a large dimensional study on discriminant analysis classifier with its three popular variants known as regularized LDA (R-LDA), regularized QDA (R-QDA) and regularized discriminant analysis (RDA). We start with the analysis of two special cases R-LDA and R-QDA, and finally generalize to RDA study. The analysis is based on the assumption that the data samples are drawn from a Gaussian mixture model with different means and covariances and relies on tools from random matrix theory (RMT). We consider the double asymptotic regime in which both the data dimension and training size with each class increases to infinity with fixed ratio. Under some mild assumptions, we show that the probability of misclassification error converges to a deterministic quantity which only depends on the class statistics and the data dimension. The result allows for a better understanding of the underlying classification algorithms in terms of their performances in practical large but finite dimensions. Further exploitation of the results permits to optimally tune the regularization parameters with the aim of minimizing the probability of misclassification error. The analysis is validated with numerical results involving synthetic as well as real data from the USPS dataset yielding a high accuracy in predicting the performances and hence making an interesting connection between theory and practice. This is joint work with Khalil Elkhalil, Xiaoke Yang, Abla Kammoun, and Slim Alouini.
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Suhas.jpeg" class="img-responsive" alt="Suhas Diggavi" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Suhas Diggavi
+
+"><strong> <h4 id="Suhas">Title:Approximate optimality of separation in cache-aided wireless interference networks.
+
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://www.ee.ucla.edu/suhas-diggavi/" target="_blank">Suhas Diggavi
+</a></p>
+        <p>Professor</p>
+        <p>Department of Electrical and Computer Engineering</p>
+        <p>University of California, Los Angeles</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+
+
+We study the role of caches in wireless interference networks. We focus on content caching and delivery across a Gaussian interference network, where both transmitters and receivers are equipped with caches. We provide a constant-factor approximation of the system's degrees of freedom (DoF), for arbitrary number of transmitters, number of receivers, content library size, receiver cache size, and transmitter cache size (as long as the transmitters combined can store the entire content library among them). We demonstrate approximate
+optimality with respect to information-theoretic bounds that do not impose any restrictions on the caching and delivery strategies. The approximate DoF is achieved using a strategy that separates the physical and network layers, demonstrating the approximate optimality
+of such a separation architecture between the physical layer transmissions and caching in wireless interference networks.  We also show that this separation architecture has an interface between the physical and network layer based on a particular message delivery
+structure that depends on the cache memories. As a side result, solving the caching problem required formulating and solving a new communication problem, the symmetric multiple multicast X-channel, for which we provide an exact DoF characterization.
+<p>
+This is joint work with Jad Hachem and Urs Niesen.</p>
+<hr/>
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Shun.jpeg" class="img-responsive" alt="Shun Watanabe" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Shun Watanabe"><strong> <h4 id="Shun">Title:Proving strong converse is difficult?
+
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://sites.google.com/site/shunwatanabeshomepage/" target="_blank">Shun Watanabe
+</a></p>
+        <p>Associate Professor</p>
+        <p>Department of Computer and Information Sciences</p>
+        <p>Tokyo University of Agriculture and Technology, Japan</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+
+
+    The strong converse for a coding theorem shows that the optimal asymptotic
+    rate possible with vanishing error cannot be improved by allowing a fixed error.
+    The strong converse for multi-terminal problems typically requires some sophisticated
+    techniques such as the blowing-up lemma, and it has been regarded as a difficult problem.
+    In this talk, it is demonstrated that the strong converse for multi-terminal problems,
+    including some open problems in the literature, can be proved by a quite simple argument.
+    This is a joint work with Himanshu Tyagi.
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Rahul.jpeg" class="img-responsive" alt="Rahul Jain" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Rahul Jain"><strong> <h4 id="Rahul">Title:Quantum Communication Using Coherent Rejection Sampling
+
+
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.comp.nus.edu.sg/~rahul/" target="_blank">Rahul Jain
+</a></p>
+        <p>Associate Professor</p>
+        <p>Department of Computer Science</p>
+        <p>National University of Singapore</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+    
+    
+    
+    
+    
+
+Compression of a message up to the information it carries is key to many tasks involved in classical and quantum information theory. Schumacher provided one of the first quantum compression schemes and several more general schemes have been developed ever since. However, the one-shot characterization of these quantum tasks is still under development, and often lacks a direct connection with analogous classical tasks. Here we show a new technique for the compression of quantum messages with the aid of entanglement. We devise a new tool that we call the `convex split lemma', which is a coherent quantum analogue of the widely used `rejection sampling procedure' in classical communication protocols. As a consequence, we exhibit new explicit protocols with tight communication cost for `quantum state merging' and `quantum state splitting'. We also present a port-based teleportation scheme which uses less number of ports in presence of information about input.</p>
+<p>
+
+Very recently our framework has found applications in several important settings in quantum network theory, such as a quantum version of the Gel’fand-Pinsker channel; the quantum broadcast channel and to obtain a new achievability bound on quantum state redistribution, in terms of smooth-max information and hypothesis testing relative entropy. Convex-split lemma has also found applications in the context of catalytic decoupling; privacy in quantum communication (the wiretap channel); a generalized quantum Slepian-Wolf result ; a bound for the important and consequential task of measurement compression using classical shared randomness and to obtain optimal bounds on the classical capacity of entanglement-assisted compound channels.
+</p>
+<p>
+Given the broad applicability of the convex-split technique as exhibited in these recent works, we expect more applications in quantum network theory in the future.
+</p>
+Talk based on:
+Quantum communication using coherent rejection sampling.
+Anurag Anshu, Vamsi Krishna Devabathini, Rahul Jain.
+Physical Review Letters (PRL), Vol. 119, Issue 12 - 22 September 2017.
+
+<hr/>
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Harish.jpeg" class="img-responsive" alt="Harish Krishnaswamy" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Harish Krishnaswamy"><strong> <h4 id="Harish_Full">Title: [Full-duplex communications] Self-Interference Cancellation via Beamforming in an Integrated Full Duplex Circulator-Receiver Phased Array
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ee.columbia.edu/~harish/" target="_blank"> Harish Krishnaswamy </a></p>
+        <p>Associate Professor</p>
+        <p> Electrical Engineering</p>
+        <p>Columbia University, USA</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+
+
+ This paper describes how phased-array beamforming can be exploited to achieve wideband self-interference cancellation (SIC) with no additional power consumption while minimizing link budget (transmitter (TX) and receiver (RX) array gain) penalty by repurposing spatial degrees of freedom. Unlike prior works that rely only on digital transmit beamforming, this work takes advantage of analog/RF beamforming capability that can be easily embedded within an integrated circulator-receiver array. This enables (i) obtaining SIC through beamforming on both TX and RX sides, thus increasing the number of degrees of freedom that can be used to obtain SIC and form the desired beams, while (ii) sharing the antenna array between TX and RX. A 65nm CMOS scalable 4-element full-duplex circulator-receiver array is demonstrated in conjunction with a TX phased-array implemented using discrete components. A tiled 8-element system shows (i) 50dB overall RF array SIC over 16.25MHz (WiFi-like) bandwidth (BW) with < 3.5/3dB degradation in TX and RX array gains, respectively, and (ii) 100dB overall array SIC including digital SIC, supporting +16.5dBm TX array power handling. (Authors: Mahmood Baraani Dastjerdi, Tingjun Chen, Negar Reiskarimian, Gil Zussman, Harish Krishnaswamy).
+<br></br>
+
+
+<p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Harish Krishnaswamy"><strong> <h4 id="Harish_Mmwave">Title: [Mm-wave and THz systems] Enabling the Third Wireless Revolution through Transformative RF/mmWave Circuits, Systems and Wireless Communication and Sensing Paradigms </span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+
+<p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Over the past 30 years, we have reaped the benefits of two wireless communication revolutions, which have had significant social and economic impact. The period from 1990-2000 saw the mobile wireless communication revolution, as cellular mobile telephony enabled human beings across the globe to be instantly connected with each other. The period from 2000 to the present day is witness to the mobile wireless data revolution, as 3G and 4G networks have brought the Internet to our fingertips. However, as massive as the amount of data that exists on the Internet is, it pales in comparison to the amount of data inherently present in the constitution of our physical world. The next wireless revolution will be the mobile wireless-reality revolution, which will bring the physical world to our fingertips. RF, mmWave and terahertz communication, imaging and sensing devices will enable us to interrogate the physical world and create virtual or augmented worlds in ways that exceed and augment human sensory situational awareness. The wireless-reality revolution will require a quantum leap forward in our ability to control and manipulate the RF-to- THz electromagnetic spectrum, and in our ability to transmit, acquire, aggregate and process the associated data.
+</p>
+<p>
+I will describe recent research on high-power and energy-efficient millimeter-wave power amplifiers, transmitters and large-scale phased arrays that have drawn interest for next-generation 5G cellular networks. I will also describe recent work on extreme-bandwidth (>20Gbps) communication links at millimeter-waves for applications such as virtual and augmented reality. I will also briefly cover other novel wireless communication paradigms, including massive MIMO and full-duplex wireless, that enable extremely-high spectral efficiencies and data rates at lower RF frequencies. I will also talk about ongoing efforts towards the realization of city-scale testbeds that deploy advanced wireless hardware supporting mmWave, massive MIMO and full-duplex operation, enabling higher-layer systems research for the first time at city scales. 
+
+</p>
+
+
+
+
+
+<hr/>
+
+
+
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Bala.jpeg" class="img-responsive" alt="Bala Pesala" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Bala Pesala"><strong> <h4 id="Bala">Title: Non-Destructive Testing using THz imaging
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://re.acsir.res.in/?team=dr-bala-pesala" target="_blank"> Bala Pesala </a></p>
+        <p> Senior Scientist</p>
+        <p> Central Electrical and Electronics Engineering Research Institute</p>
+	<p> and </p>
+        <p> Assistant Professor</p>
+	<p> Academy of Scientific and Innovative Research </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+
+Recent advances in THz sources and detectors have enabled rapid scanning imaging systems suitable for various industrial applications. In addition, most dry materials including plastics, composite materials have low absorption in the THz range. Hence, THz imaging has emerged as an optimal technique for Non-destructive testing and evaluation providing good spatial resolution and penetration depth. In this talk, I will discuss state -of-the art THz systems for NDE applications and our work related to defect detection in cement and FRP materials.
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Goutam.jpeg" class="img-responsive" alt="Goutam Chattopadhyay" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Goutam Chattopadhyay"><strong> <h4 id="Goutam">Title: Communication and Systems at Millimeter and Terahertz Waves 
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://scienceandtechnology.jpl.nasa.gov/people/g_chattopadhyay" target="_blank"> Goutam Chattopadhyay </a></p>
+        <p>Senior Research Scientist</p>
+        <p> Jet Propulsion Laboratory </p>
+        <p> NASA, USA</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+The millimeter-wave and terahertz frequency spectrum of the electromagnetic waves have mostly been used for high-resolution spectroscopic and radiometric studies for astrophysics, anetary science, and Earth science applications. However, in recent years, it has attracted significant interest among researchers for applications ranging from ultra-fast wireless communications to miniaturized high-resolution imaging radars, medical imaging, and imaging systems for collision avoidance and navigation. Millimeter-wave and terahertz frequencies provide enormous bandwidth compared to low-microwave frequencies. As a result, this band is very attractive for wireless communication systems. The current generation of wireless communication systems such as 4G/LTE is increasingly becoming inadequate due to the high data transfer demand, particularly for highresolution video transmissions. Millimeter-wave and terahertz frequencies could provide the paradigm shift needed for the next generation of wireless communication systems. Even though they provide significant bandwidth advantage, millimeter-wave and terahertz waves have their own set of challenges for use in a communication system. Due to the highly directive nature of these waves, line of sight at terahertz frequencies, they create a severe lack of angular diversity for communication applications. To overcome these, new technological breakthroughs are needed. In this talk, an overview of current technology roadmap for the insertion of communication systems using millimeter-wave and terahertz frequency based architecture will be discussed. High data rate terahertz communication systems demonstrated so far has used simple on-off-keying or similar modulation schemes. This talk will also discuss why it is so difficult to implement more popular schemes such as QPSK or QAM. The component technology and system integration for such communication systems will also be presented. The research described herein was carried out at the Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA, under contract with National Aeronautics and Space Administration.
+
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/PHRao.jpeg" class="img-responsive" alt="P.H. Rao" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="P.H. Rao"><strong> <h4 id="PHRao">Title: Periodic EM configurations and their applications for next generation Wireless systems.
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.iccnasp.com/phrao.php" target="_blank"> P.H. Rao </a></p>
+        <p> Scientist</p>
+        <p> SAMEER - Centre for Electromagnetics, </p>
+        <p> Chennai</p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+
+The talk introduces the importance of periodic configurations in Electromagnetic and Antenna applications. Periodic configurations for both radiating systems (Antennas) and circuit applications ( Mixed signal systems) will be discussed. Metamaterials which are artificial, effectively homogeneous electromagnetic structures having unusual properties which are not available in nature will be introduced. Metamaterials also known as Left Handed (LH) materials, exhibit simultaneous negative permittivity and permeability. These properties can be applied to several electromagnetic areas to improve the system performance. Metamaterial application in Filters, antennas, miniaturization, and phase delay lines will be discussed in detail. Flat lens design for MRI application will be discussed in detail. Application of metamaterial configurations : Split ring resonators (SRRs) and Complementary Split ring resonators (CSRRs) in circuit miniaturization will be demonstrated. The electromagnetic band gap (EBG) structures will be analyzed for various configurations. The design and applications of these EBGs will be demonstrated with practical realizations. The concept of low sidelobe level antenna arrays will be introduced. The effects of corporate feed network on the performance of low sidelobe level (SLL) planar array operating in X-band will be analyzed. The optimization of impedance distribution at the individual sub-arrays to suppress the effects of corporate feed radiation and to achieve the required low sidelobe level (~20dB) will be discussed. CSRR loaded low SLL array Antennas : This technique involves the addition of two external complementary split ring resonators (CSRRs) at both the ends of each row of the antenna in the ground plane. These two CSRRs together produce an interferometer pattern for the reduction of sidelobes. Design of an 8×4 planar array at 9.9 GHz will be carried out to demonstrate the concept and to achieve sidelobe reduction. of 4.3 dB Switched beam array antennas for civilian and military applications will be discussed with design examples. Concept of Butler matrix, miniaturized Butler Matrix and Rotman Lens based Switched beam configurations will be introduced. Antennas for MIMO and Massive MIMO configurations for future 5G communications will be explained in detail with examples. Reflectarray and Shared aperture Antennas : Introduction to Reflectarray antennas, Types of Reflectarray antennas, Design approaches of Reflectarray antennas, Fabrication Techniques will be dealt in detail. Concept of shared aperture antennas, Types of shared aperture antennas, Shared aperture for multi frequency, multi polarisation applications will be highlighted. Various antenna developments for mission critical applications will be discussed.
+
+<hr/>
+
+
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Sandeep.jpeg" class="img-responsive" alt="Sandeep K. Shukla" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Sandeep K. Shukla"><strong> <h4 id="Sandeep">Title: Signal Processing Problems in Cyber Physical System Security.
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://security.cse.iitk.ac.in" target="_blank"> Sandeep K. Shukla </a></p>
+        <p> Poonam and Prabhu Goel Chair Professor</p>
+        <p> Interdisciplinary Center for Cyber Security and Cyber Defense of Critical Infrastructure </p>
+        <p> IIT Kanpur </p>
+	<p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+Power Grid, Manufacturing Automation Systems, Water/Sewage Systems, and other example of Cyber Physical Systems (CPS) have two interacting components, a physical one whose dynamics is governed by the laws of physics and a cyber part that includes sensors, actuators, control systems, and network that carries information between the sensors/actuators to control and back. There are many ways a cyber-attacks can happen in such systems through vulnerabilities in the cyber components. However, one can consider more potent attacks by changing the dynamics of the system through false data injection, or by overtaking the cyber components through malware injection. However, in order to reduce the possibility of an ongoing attack to be thwarted by anomaly detection systems, the attacker needs to know more about the state of the system, as well as the topology of the system. The most powerful attacks are those which can control a few sensors, or apply man-in-the middle attack to capture sensor measurements to estimate the state of the system, and/or the topology of the system. Systems whose state can be adequately estimated or whose topology and parameters can be effectively estimated through minimal amount of snooping on sensor measurements are most vulnerable to such attacks which cannot be easily detected through standard anomaly detection in the physical dynamics of the system. In this talk we will talk about a few problems that are germane to signal processing and statistical estimation techniques – which arise for the attackers when trying to estimate state or topological structure/parameters through minimal sensor snooping. We will also discuss some of the techniques relevant to detect or thwart such attacks. The talk will be more tutorial in nature than new research work. 
+
+
+
+
+
+
+
+
+
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Dinesh.jpeg" class="img-responsive" alt=" Dinesh Bharadia " /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Dinesh Bharadia "><strong> <h4 id="Dinesh">Title: Full Duplex Wireless: A solution for next generation or not yet?
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://web.eng.ucsd.edu/~dineshb/" target="_blank"> Dinesh Bharadia </a></p>
+        <p> Assistant Professor</p>
+        <p> Department of Electrical and Computer Engineering </p>
+        <p> University of California San Diego </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+Full Duplex radios is an ability to transmit and receive on the same spectrum, more fundamentally it revolutionizes the physical layer. In recent times, full duplex radios have undergone successful commercial field trials by Tier 1 Telecom. However, even with the lowest layer of networking stack would undergo a major shift, there hasn't been a domino effect on higher layers. The question still remains unanswered is how can we use full duplex? Is it just 2x throughput only? I would present some future directions of using full-duplex radios and building full duplex networks.
+
+
+
+
+
+
+<hr/>
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Prabha.jpeg" class="img-responsive" alt=" Prabha Mandayam " /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Prabha Mandayam "><strong> <h4 id="Prabha">Title: The theory and practice of quantum key distribution (QKD)
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.physics.iitm.ac.in/~prabhamd/" target="_blank"> Prabha Mandayam </a></p>
+        <p> Assistant Professor</p>
+        <p> Department of Physics </p>
+        <p> IIT Madras </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+
+As classical cryptosystems are rendered vulnerable with the advent of quantum computers, quantum key distribution (QKD) promises unconditional security based on fundamental properties of quantum states. While several QKD schemes have been demonstrated experimentally, realising the full potential of QKD for regular commercial applications remains a challenge. In this talk, we will focus on Differential-phase-shifted QKD, which is based on the B92 protocol and is most amenable for implementation over conventional fibre-optics networks. We will compare and contrast variants of DPS-QKD in terms of their secure key rate and ease of implementation. Finally, we will present the DPS-protocol being implemented at IIT-Madras and QuNu, Bangalore. We will discuss the details of the experimental set-up, the resulting quantum bit error rate (QBER), and the practical challenges involved in improving the secure key rate.</p>
+<p>[Joint work with Prof. Anil Prabhakar, IIT Madras]</p>
+
+
+
+
+
+<hr/>
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Ganesan.jpeg" class="img-responsive" alt=" Ganesan Thiagarajan " /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Ganesan Thiagarajan "><strong> <h4 id="Ganesan">Title: Recent Developments in IOT: A system perspective
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://www.linkedin.com/in/tganesan/" target="_blank"> Ganesan Thiagarajan </a></p>
+        <p> Director and CTO </p>
+        <p> MMRFIC Technology Private Limited, Bangalore </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+
+This talk summarizes recent developments in all four main components of IoT namely, connectivity, hardware, internet and (software) platform. The terms IoT and IoT platform are differentiated and the developments in these above mentioned four components are categorized. As a case study, the latest developments in NB-IOT standards (3GPP Release 13 and 14) are reviewed in the context of PHY layer and network features. The various IoT standards are compared from a system point of view and application point of view. Finally, future trends in IoT is presented from a system architect's point of view.
+
+
+
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Jacob.jpeg" class="img-responsive" alt=" Mathews Jacob " /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Mathews Jacob "><strong> <h4 id="Jacob">Title: Structured low-rank algorithms: a novel framework for super-resolution recovery of curves and images
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://user.engineering.uiowa.edu/~jcb/" target="_blank"> Mathews Jacob </a></p>
+        <p> Associate Professor </p>
+	<p> Department of Electrical and Computer Engineering </p>
+        <p> University of Iowa </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+The recovery of signals from very few and noisy measurements using compactness priors had been an active area of research in the compressed sensing . Most of the current methods rely on discrete signal models, which are not ideally suited for the super-resolution setting, where the primary objective is to improve the resolution beyond the limits of physical imaging systems. The main focus of the talk is to introduce a novel framework for the continuous domain recovery of images and curves from few of their measurements. The proposed structured low-rank methods are ideally suited to recover signals that are support limited on curves or surfaces in high dimensions, unlike current atomic norm minimization methods that are designed for the recovery of Diracs or spikes. The similarity of the resulting algorithms to widely used kernel methods and graph Laplacian regularization will also be covered. The application of the framework will be demonstrated in several applications including MRI and optical imaging. 
+
+
+
+
+
+
+<hr/>
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Kaushik.jpeg" class="img-responsive" alt="Kaushik Mitra " /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Kaushik Mitra "><strong> <h4 id="Kaushik">Title:  Solving Inverse Computational Imaging Problems using Deep Pixel-level Priors
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://www.ee.iitm.ac.in/kmitra/" target="_blank"> Kaushik Mitra </a></p>
+        <p> Assistant Professor </p>
+        <p> Department of Electrical Engineering </p>
+        <p> IIT Madras </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Signal reconstruction is a challenging aspect of computational imaging as it often involves solving ill-posed inverse problems. Recently, deep feed-forward neural networks have led to state-of-the-art results in solving various inverse imaging problems. However, being task specific, these networks have to be learned for each inverse problem. On the other hand, a more flexible approach would be to learn a deep generative model once and then use it as a signal prior for solving various inverse problems. We show that among the various state of the art deep generative models, deep autoregressive models are especially suitable for our purpose. We demonstrate the efficacy of our proposed approach in solving three computational imaging problems: Single Pixel Camera (SPC), LiSens and FlatCam.
+
+
+
+
+
+<hr/>
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Adithya.jpeg" class="img-responsive" alt="Adithya Pediredla " /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id=" Adithya Pediredla "><strong> <h4 id="Adithya">Title: SPToF: Signal processing for Time-of-Flight cameras 
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="https://sites.google.com/site/adithyapediredla/" target="_blank"> Adithya Pediredla </a></p>
+        <p> Doctoral Student </p>
+        <p> Department of Electrical and Computer Engineering </p>
+        <p> Rice University </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+During the last decade, we have been witnessing the continued development of new time-of-flight imaging devices, and their increased use in numerous and varied applications. Unfortunately, due to the expensive hardware setups, very few signal processing techniques exist for designing the imaging and image processing pipelines for the time-of-flight cameras. To mitigate these problems, we propose a 
+physics-based rendering technique that can accurately simulate the functionality of the time-of-flight devices for arbitrary geometries, scene BRDFs, and light bounces. T
+he proposed rendering algorithm efficiently samples paths with a predetermined length and is tailored towards simulating different time-of-flight sensors, such as gated and transient cameras. We use our open-source implementation to demonstrate improved rendering performance in a variety of scenes. We also show two signal processing-based applications of our renderer: (1) to reconstruct planar facets beyond line-of-sight, (2) to design depth-selective codes for continuous-wave time-of-flight camera. 
+
+
+
+
+
+<hr/>
+
+
+
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Kedar.jpeg" class="img-responsive" alt="Kedar Khare" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Kedar Khare"><strong> <h4 id="Kedar">Title: Sparsity Assisted Optical Phase Imaging
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://physics.iitd.ac.in/content/dr-kedar-b-khare" target="_blank"> Kedar Khare </a></p>
+        <p> Assistant Professor </p>
+        <p> Department of Physics </p>
+        <p> IIT Delhi </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+Imaging phase of an optical wavefront is a challenging problem since all detectors at visible wavelengths only respond to energy or amplitude of light waves. Phase however carries a lot of meaningful information that is useful for a number of imaging applications. Single shot phase imaging poses severe data incompleteness problems for both interferometric as well as non-interferometric imaging configurations. For example the spatial resolution in single-shot off-axis interferometric data is considered limited by overlap of the dc and cross terms in Fourier space. Non-interferometric iterative phase retrieval from Fourier magnitude data for complex valued objects on the other hand is considered difficult due to the twin stagnation problem. In this talk I will describe our work on incorporating sparsity ideas for phase imaging that allows us to outperform several “text-book” limitations on resolution, noise and data incompleteness issues. Our recent efforts on converting the new algorithmic ideas for applications such as live cell microscopy and pathological diagnosis will also be discussed. Overall I will show that the computational imaging framework can question several long-held Physics limits on phase imaging and in the process enable a number of low cost imaging devices.
+
+
+
+
+<hr/>
+
+
+<p><img style="border: thin solid #000000; margin: 8px 10px 0px; float: left;"  height = "300px" width = "250px" src="img/Tara.jpeg" class="img-responsive" alt="Tara Javidi" /></p>
+         <p style="text-align: justify"><span style="font-size: 12pt; font-family: helvetica;" id="Tara Javidi"><strong> <h4 id="Tara">Title:  Gaussian Process bandits with adaptive discretization 
+
+</span> </strong> </h4></p>
+        <p style="text-align: justify;"><strong>&nbsp;</strong></p>
+        <p style="text-align: left;"><strong>Speaker:&nbsp; </strong><a href="http://tjavidi.eng.ucsd.edu/" target="_blank"> Tara Javidi </a></p>
+        <p> Professor </p>
+        <p> Department of Electrical and Computer Engineering </p>
+        <p> University of California San Diego </p>
+        <p class="contentpane" style="text-align: justify;"><strong>&nbsp;</strong><strong>Abstract:</strong>
+
+In this paper, the problem of maximizing a black-box function real-valued function f with domain X is studied in the Bayesian framework with a Gaussian Process (GP) prior. In particular, a new algorithm for this problem is proposed, and high probability bounds on its simple and cumulative regret are established. The query point selection rule in most existing methods involves an exhaustive search over an increasingly fine sequence of uniform discretizations of X. The proposed algorithm, in contrast, adaptively refines X which leads to a lower computational complexity, particularly when X is a subset of a high dimensional Euclidean space. In addition to the computational gains, sufficient conditions are identified under which the regret bounds of the new algorithm improve upon the known results. Finally an extension of the algorithm to the case of contextual bandits is proposed, and high probability bounds on the contextual regret are presented. This is joint work with Shubhanshu Shekhar.
+
+
+
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+<!--                QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->  
+
+
+
+
+          </div>
+
+      </div>
+
+
+                    </div>
+                </div>
+            </div>
+	</div>
+        <!-- /.row -->
+
+        <!-- Portfolio Section --><!--
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Portfolio Heading</h2>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="https://placehold.it/700x450" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="https://placehold.it/700x450" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="https://placehold.it/700x450" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="https://placehold.it/700x450" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="https://placehold.it/700x450" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="https://placehold.it/700x450" alt="">
+                </a>
+            </div>
+        </div>-->
+        <!-- /.row -->
+
+        <!-- Features Section --><!--
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Modern Business Features</h2>
+            </div>
+            <div class="col-md-6">
+                <p>The Modern Business template by Start Bootstrap includes:</p>
+                <ul>
+                    <li><strong>Bootstrap v3.2.0</strong>
+                    </li>
+                    <li>jQuery v1.11.0</li>
+                    <li>Font Awesome v4.1.0</li>
+                    <li>Working PHP contact form with validation</li>
+                    <li>Unstyled page elements for easy customization</li>
+                    <li>17 HTML pages</li>
+                </ul>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+            </div>
+            <div class="col-md-6">
+                <img class="img-responsive" src="https://placehold.it/700x450" alt="">
+            </div>
+        </div>-->
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Call to Action Section -->
+        <!--div class="well">
+            <div class="row">
+                <div class="col-md-8">
+                    <p></p>
+                  </div>
+
+                <div class="col-md-4">
+
+
+                </div>
+
+            </div>
+           </div>
+
+        <hr-->
+	
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; SPCOM 2018</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="../bootstrap-3.3.5/modern-business/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../bootstrap-3.3.5/dist/js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>

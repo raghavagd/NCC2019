@@ -1,0 +1,147 @@
+\documentclass[10pt,conference]{IEEEtran}
+% If the IEEEtran.cls has not been installed into the LaTeX system files,
+% manually specify the path to it:
+% \documentclass[conference]{../sty/IEEEtran}
+
+\begin{document}
+
+% paper title
+\title{Instructions for Preparation and Submission of Papers for SPCOM 2018}
+
+
+% author names and affiliations
+% use a multiple column layout for up to three different
+% affiliations
+%\author{
+%\authorblockN{A. Chockalingam}
+%\authorblockA{Dept.\ of Electrical Communication Engg.\\
+%Indian Institute of Science \\
+%Bangalore, 560012, India\\
+%Email: spcom2016@gmail.com} \and
+%\authorblockN{Rahul Vaze}
+%\authorblockA{School of Technology and Computer Science\\
+%Tata Institute of Fundamental Research\\
+%Mumbai, 400005, India\\
+%Email: spcom2016@gmail.com}
+%\and
+%\authorblockN{Animesh Kumar}
+%\authorblockA{Dept.\ of Electrical Engg.\\
+%Indian Institute of Technolgy \\
+%Bombay, 400076, Mumbai India\\
+%Email: spcom2016@gmail.com} 
+%%\and
+%%\authorblockN{Robert Calderbank}
+%%\authorblockA{Department of Electrical Engineering\\
+%%Princeton University \\
+%%Princeton, NJ 08544, USA\\
+%%Email: calderbk@math.princeton.edu} \and
+%%\authorblockN{Habong Chung}
+%%\authorblockA{Department of Electronic\\
+%%\& Electrical Engineering\\
+%%Hongik University\\
+%%Seoul, Korea\\
+%%Email: habchung@hongik.ac.kr}
+%}
+% avoiding spaces at the end of the author lines is not a problem with
+% conference papers because we don't use \thanks or \IEEEmembership
+% for over three affiliations, or if they all won't fit within the width
+% of the page, use this alternative format:
+% make the title area
+\maketitle
+
+\begin{abstract}
+This note provides instructions for the preparation of papers
+for submission to SPCOM 2018, and the relevant style file that produced
+this page.
+\end{abstract}
+
+\vspace{.5in}
+{\bf IMPORTANT NOTE:} All submitted papers will be judged based on their quality and relevance through {\bf double-blind reviewing}, where the identities of the authors are withheld from the reviewers. As an author, you are required to preserve the anonymity of your submission, while at the same time allowing the reader to fully grasp the context of related past work, including your own. Common sense and careful writing will go a long way towards preserving anonymity. Papers that do not conform with our double-blind submission policies will be rejected without review.
+
+\section{Introduction}
+SPCOM 2018 will be held at the J.N.~Tata Auditorium in the 
+Indian Institute of Science (IISc), Bangalore, India, from Sunday, June~12 to
+Wednesday, June~15, 2016.
+
+
+
+\section{Submission and Review Process}
+Papers will be reviewed on the basis of a manuscript of sufficient
+detail to permit reasonable evaluation. The manuscript should {\bf
+not exceed {\bf FIVE} double-column pages, with single line spacing, main
+text font size no smaller than 10 points, and at least 3/4 inch
+margins (about 18 mm)}. The deadline for submission is {\bf Monday, Jan 11, 2016}, with notification of decisions by {\bf Sunday, April 10, 2016}. The deadline for the final camera-ready paper is {\bf Saturday, April 30, 2016}. Final manuscript guidelines will be made available after the
+notification of decisions.
+
+
+%\section{Proceedings}
+%All the accepted papers will be published in a conference
+%proceeding. All the registrants at the conference will receive a
+%copy of the proceedings.
+
+\section{Preparation of the Paper}
+Only electronic submissions in the form of a Postscript (PS) or Portable
+Document Format (PDF) file will be accepted. Most authors will
+prepare their papers with \LaTeX. The \LaTeX\ style file
+(\verb#IEEEtran.cls#) and the \LaTeX\ source
+(\verb#spcom2016_example.tex#) that produced this page may be
+downloaded from the SPCOM 2018 web site
+(http://ece.iisc.ernet.in/$\sim$spcom/2016). Do not change the style file
+in any way. 
+Authors using other means to prepare their manuscripts
+should attempt to duplicate the style of this example as closely as
+possible.
+
+The style of references, 
+e.g.,
+\cite{Shannon1948},\cite{Kalman1960},\cite{Rao2008},\cite{Mhatre2009}, 
+equations, figures, tables, etc.,
+should be the same as for the \emph{IEEE Transactions on Information
+Theory}. 
+%The affiliation shown for authors should constitute a
+%sufficient mailing address for persons who wish to write for more
+%details about the paper.
+
+\section{Electronic Submission}
+The paper submission portal is EDAS:
+\begin{center}
+\texttt{https://edas.info/newPaper.php?c=21456}
+\end{center}
+For relevant announcements please check the SPCOM 2018 website
+(http://ece.iisc.ernet.in/~spcom/2016).
+
+\section{Conclusion}
+Conclusions, if any, go here.
+
+% conference papers do not normally have an appendix
+
+% use section* for acknowledgement
+\section*{Acknowledgment}
+% optional entry into table of contents (if used)
+%\addcontentsline{toc}{section}{Acknowledgment}
+We thank everyone who helped us in any way. 
+
+\begin{thebibliography}{1}
+
+\bibitem{Shannon1948}
+C.~E.~Shannon, ``A mathematical theory of communication,''
+\emph{Bell Syst.\ Tech.\ J.}, vol.\ 27, pt.~I, pp.~379--423, 1948;
+     pt.~II, pp.~623--656, 1948.
+
+\bibitem{Kalman1960}
+R.~E.~Kalman, ``A new approach to linear filtering and prediction
+problems,'' \emph{Journal of Basic Engineering}, vol.\ 82, no.\ 1,
+pp.~35--45, 1960.
+
+\bibitem{Rao2008}
+K.~S.~Rao, ``Indian Institute of Science Campus: A Botanist's
+Delight,'' Bangalore: IISc Press, 2008.
+
+\bibitem{Mhatre2009}
+N.~Mhatre, ``Secret Lives: Biodiversity of the Indian Institute of
+Science Campus,'' Bangalore: IISc Press, 2009.
+
+\end{thebibliography}
+
+
+\end{document}

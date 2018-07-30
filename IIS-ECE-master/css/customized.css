@@ -1,0 +1,68 @@
+
+@media(min-device-width: 480px){
+.intro-padding{
+padding-top: 200px;
+}
+}
+
+
+.about {
+text-align: justify;
+padding-top:100px;
+padding-bottom: 100px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+@media(max-device-width: 480px){
+
+.intro-padding{
+paddin-top: 0px;
+padding-bottom: 20px;
+height: auto;
+}
+
+.about {
+text-align: justify;
+padding-top:10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+}
+
+
+.talk-block {
+padding: 20px;
+text-align: justify; 
+font-size:18px;
+background-color: #DFCFB5;
+color: #222 ;
+}
+
+.talk-block a {
+color: #444;
+}
+
+.talk-block a:hover {
+color: #fff;
+}
+
+.more {
+color: #444
+}
+.more:hover {
+color: #fff;
+cursor: pointer;
+}
+
+
+.less {
+color: #444;
+}
+
+.less:hover {
+color: #fff;
+cursor: pointer;
+}
