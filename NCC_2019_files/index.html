@@ -37,7 +37,7 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
@@ -52,7 +52,14 @@
             content for toggling -->
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#committees">COMMITTEES</a></li>
+                    <!-- Hidden li included to remove active
+                    class from about link when scrolled up
+                    past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li><a href="#committees" class="page-scroll">COMMITTEES</a></li>
+                    
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">AUTHORS<b class="caret">&nbsp;</b></a>    
                     </li>
@@ -65,13 +72,8 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">USEFUL LINKS<b class="caret">&nbsp;</b></a>
                     </li>
-                    <li><a href="#contact_us">CONTACT US</a></li>
-                    <!-- Hidden li included to remove active
-                    class from about link when scrolled up
-                    past about section -->
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
+                    
+                    <li><a href="#contact_us" class="page-scroll">CONTACT US</a></li>
                     
                 </ul>
             </div>
@@ -97,11 +99,11 @@
                 <div class="row" style = "padding-top:25px">
                    <div class="col-sm-12">
                         <h1>Twenty fifth National Conference On Communications
-                        (NCC) 2019,
+                        (NCC) 2019
                         </h1>
-                        <p class="intro-text">Silver Jubilee Edition,<br/>
-                        Indian Institute of Science, <br/>
-                        20-23 February 2019.</p>
+                        <p class="intro-text">Silver Jubilee Edition<br/>
+                        Indian Institute of Science <br/>
+                        20-23 February 2019</p>
                         <a href="#about" class="btn btn-circle page-scroll">
                            <i class="fa fa-angle-double-down
                            animated"></i>
@@ -122,7 +124,7 @@
             </div>
         </div>
     </header>
-    <section id="about">
+    <section id="about" class="text-center about">
       <div class="container">
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
@@ -185,7 +187,7 @@
     <!-- /.container -->
     </section>
 
-    <section id="committees">
+    <section id="committees" class="about">
        <div class="container">
         <!-- Page Heading/Breadcrumbs -->
         <div class="col-md-12">
@@ -235,12 +237,12 @@
                     </table>
                 </div>
             </div>
-            <hr>
+           
         </div>
 
     </section>
     
-    <section id = "contact_us">
+    <section id = "contact_us" class="about">
        <div class="container">
         <div class="col-md-12">
             <div class="panel panel-default">
@@ -267,17 +269,20 @@
     </section>
 
     <!-- jQuery -->
-    <script src="../bootstrap-3.3.5/modern-business/js/jquery.js"></script>
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="../bootstrap-3.3.5/dist/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
-    <!-- Script to Activate the Carousel -->
-    <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
-    </script>
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
+    <script src="js/customized.js"></script>
 
     </body>
 

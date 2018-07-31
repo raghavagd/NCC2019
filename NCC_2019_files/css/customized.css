@@ -8,10 +8,10 @@ padding-top: 200px;
 
 .about {
 text-align: justify;
-padding-top:100px;
-padding-bottom: 100px;
-padding-left: 20px;
-padding-right: 20px;
+padding-top:10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
 }
 
 @media(max-device-width: 480px){
