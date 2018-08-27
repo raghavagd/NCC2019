@@ -5,6 +5,10 @@ padding-top: 200px;
 }
 }
 
+/*dummy class created to collpase the nav bar on click in small screens. The customized.js file has a code section which collapses the menu on a click to the menu item which is attached to this dummy class*/
+.mynavclass{
+
+}
 
 .about {
 text-align: justify;
